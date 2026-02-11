@@ -1,0 +1,9 @@
+Era: Past
+Food Chain 1: T-Rex, Velociraptor, Triceratops, Ferns
+Food Chain 2: Giganotosaurus, Allosaurus, Stegosaurus, Cycads
+Era: Present
+Food Chain 1: Lion, Cheetah, Bunny, Grass
+Food Chain 2: Polar Bear, Wolf, Deer, Shrubs
+Era: Future
+Food Chain 1: Alien Overlord, Alien Hunter, Human, Cow
+Food Chain 2: Leviathan, Cyborg, Robot, Energy Node

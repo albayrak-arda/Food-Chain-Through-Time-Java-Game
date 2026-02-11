@@ -1,0 +1,8 @@
+
+Arda,123
+AHMET,789
+ahmet,xyz1234
+kemal,14
+arda,12345
+murat,123456
+alya,769

@@ -1,0 +1,1550 @@
+[Oca 08 03:47:34 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 03:47:34 2026] Round 0: AI (PREY): Triceratops moved to (6,6)
+[Oca 08 03:50:06 2026] Round 0: AI (PREY): Triceratops moved to (5,5)
+[Oca 08 03:50:06 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 03:50:06 2026] Round 0: PLAYER: Predator moved from (9,9) to (9,7)
+[Oca 08 03:50:06 2026] Round 0: AI (APEX): T-Rex moved to (2,2)
+[Oca 08 03:57:40 2026] Round 1: AI (PREY): Triceratops moved to (6,4)
+[Oca 08 03:57:40 2026] Round 1: Player used basic move.
+[Oca 08 03:57:40 2026] Round 1: PLAYER: Predator moved from (9,7) to (8,6)
+[Oca 08 03:57:40 2026] Round 1: AI (APEX): T-Rex moved to (3,3)
+[Oca 08 03:57:43 2026] Round 2: AI (PREY): Triceratops moved to (7,3)
+[Oca 08 03:57:43 2026] Round 2: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 03:57:43 2026] Round 2: Player used basic move.
+[Oca 08 03:57:43 2026] Round 2: PLAYER: Predator moved from (8,6) to (8,5)
+[Oca 08 03:57:43 2026] Round 2: AI (APEX): T-Rex moved to (4,3)
+[Oca 08 03:57:46 2026] Round 3: AI (PREY): Triceratops moved to (6,1)
+[Oca 08 03:57:46 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 03:57:46 2026] Round 3: PLAYER: Predator moved from (8,5) to (8,3)
+[Oca 08 03:57:46 2026] Round 3: AI (APEX): T-Rex moved to (6,1)
+[Oca 08 03:57:46 2026] Round 3: EVENT: Apex CAUGHT Prey at (6,1)
+[Oca 08 03:57:59 2026] Round 4: AI (PREY): Triceratops moved to (9,9)
+[Oca 08 03:57:59 2026] Round 4: Player used basic move.
+[Oca 08 03:57:59 2026] Round 4: PLAYER: Predator moved from (8,3) to (7,4)
+[Oca 08 03:57:59 2026] Round 4: AI (APEX): T-Rex moved to (7,2)
+[Oca 08 03:58:01 2026] Round 5: AI (PREY): Triceratops moved to (9,8)
+[Oca 08 03:58:01 2026] Round 5: Player used basic move.
+[Oca 08 03:58:01 2026] Round 5: PLAYER: Predator moved from (7,4) to (6,5)
+[Oca 08 03:58:01 2026] Round 5: AI (APEX): T-Rex moved to (6,3)
+[Oca 08 03:58:03 2026] Round 6: AI (PREY): Triceratops moved to (9,9)
+[Oca 08 03:58:03 2026] Round 6: Player used basic move.
+[Oca 08 03:58:03 2026] Round 6: PLAYER: Predator moved from (6,5) to (7,6)
+[Oca 08 03:58:03 2026] Round 6: AI (APEX): T-Rex moved to (7,4)
+[Oca 08 03:58:09 2026] Round 7: AI (PREY): Triceratops moved to (9,8)
+[Oca 08 03:58:09 2026] Round 7: Player used basic move.
+[Oca 08 03:58:09 2026] Round 7: PLAYER: Predator moved from (7,6) to (8,7)
+[Oca 08 03:58:09 2026] Round 7: AI (APEX): T-Rex moved to (8,5)
+[Oca 08 03:58:45 2026] Round 8: AI (PREY): Triceratops moved to (7,9)
+[Oca 08 03:58:45 2026] Round 8: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 03:58:45 2026] Round 8: PLAYER: Predator moved from (8,7) to (8,9)
+[Oca 08 03:58:45 2026] Round 8: AI (APEX): T-Rex moved to (8,7)
+[Oca 08 04:00:04 2026] Round 9: AI (PREY): Triceratops moved to (6,8)
+[Oca 08 04:00:04 2026] Round 9: Player used basic move.
+[Oca 08 04:00:04 2026] Round 9: PLAYER: Predator moved from (8,9) to (7,8)
+[Oca 08 04:00:04 2026] Round 9: AI (APEX): T-Rex moved to (7,8)
+[Oca 08 04:00:04 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (7,8)
+[Oca 08 04:00:04 2026] GAME OVER: TIE WINS! Final Score: -1
+[Oca 08 04:01:49 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 04:01:49 2026] Round 0: AI (PREY): Triceratops moved to (6,6)
+[Oca 08 04:02:04 2026] Round 0: AI (PREY): Triceratops moved to (5,5)
+[Oca 08 04:02:04 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 04:02:04 2026] Round 0: PLAYER: Predator moved from (9,9) to (9,7)
+[Oca 08 04:02:04 2026] Round 0: AI (APEX): T-Rex moved to (2,2)
+[Oca 08 04:02:07 2026] Round 1: AI (PREY): Triceratops moved to (6,4)
+[Oca 08 04:02:07 2026] Round 1: Player used basic move.
+[Oca 08 04:02:07 2026] Round 1: PLAYER: Predator moved from (9,7) to (8,6)
+[Oca 08 04:02:07 2026] Round 1: AI (APEX): T-Rex moved to (3,3)
+[Oca 08 04:02:21 2026] Round 2: AI (PREY): Triceratops moved to (7,3)
+[Oca 08 04:02:21 2026] Round 2: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 04:02:21 2026] Round 2: Player used basic move.
+[Oca 08 04:02:21 2026] Round 2: PLAYER: Predator moved from (8,6) to (7,5)
+[Oca 08 04:02:21 2026] Round 2: AI (APEX): T-Rex moved to (4,3)
+[Oca 08 04:11:36 2026] Round 3: AI (PREY): Triceratops moved to (6,1)
+[Oca 08 04:11:36 2026] Round 3: Player used basic move.
+[Oca 08 04:11:36 2026] Round 3: PLAYER: Predator moved from (7,5) to (8,4)
+[Oca 08 04:11:36 2026] Round 3: AI (APEX): T-Rex moved to (6,1)
+[Oca 08 04:11:36 2026] Round 3: EVENT: Apex CAUGHT Prey at (6,1)
+[Oca 08 04:11:40 2026] Round 4: AI (PREY): Triceratops moved to (5,3)
+[Oca 08 04:11:40 2026] Round 4: Player used basic move.
+[Oca 08 04:11:40 2026] Round 4: PLAYER: Predator moved from (8,4) to (7,5)
+[Oca 08 04:11:40 2026] Round 4: AI (APEX): T-Rex moved to (5,2)
+[Oca 08 04:11:42 2026] Round 5: AI (PREY): Triceratops moved to (4,4)
+[Oca 08 04:11:42 2026] Round 5: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 04:11:42 2026] Round 5: PLAYER: Predator moved from (7,5) to (5,5)
+[Oca 08 04:11:42 2026] Round 5: AI (APEX): T-Rex moved to (4,3)
+[Oca 08 04:11:46 2026] Round 6: AI (PREY): Triceratops moved to (3,2)
+[Oca 08 04:11:46 2026] Round 6: Player used basic move.
+[Oca 08 04:11:46 2026] Round 6: PLAYER: Predator moved from (5,5) to (4,6)
+[Oca 08 04:11:46 2026] Round 6: AI (APEX): T-Rex moved to (3,2)
+[Oca 08 04:11:46 2026] Round 6: EVENT: Apex CAUGHT Prey at (3,2)
+[Oca 08 04:11:51 2026] Round 7: AI (PREY): Triceratops moved to (9,9)
+[Oca 08 04:11:51 2026] Round 7: Player used basic move.
+[Oca 08 04:11:51 2026] Round 7: PLAYER: Predator moved from (4,6) to (5,6)
+[Oca 08 04:11:51 2026] Round 7: AI (APEX): T-Rex moved to (5,4)
+[Oca 08 04:11:52 2026] Round 8: AI (PREY): Triceratops moved to (8,9)
+[Oca 08 04:11:52 2026] Round 8: Player used basic move.
+[Oca 08 04:11:52 2026] Round 8: PLAYER: Predator moved from (5,6) to (6,7)
+[Oca 08 04:11:52 2026] Round 8: AI (APEX): T-Rex moved to (6,5)
+[Oca 08 04:11:57 2026] Round 9: AI (PREY): Triceratops moved to (9,9)
+[Oca 08 04:11:57 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 04:11:57 2026] Round 9: PLAYER: Predator moved from (6,7) to (8,7)
+[Oca 08 04:11:57 2026] Round 9: AI (APEX): T-Rex moved to (7,6)
+[Oca 08 04:11:57 2026] GAME OVER: APEX PREDATOR WINS! Final Score: 0
+[Oca 08 04:19:37 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 08 04:19:37 2026] Round 0: AI (PREY): Robot moved to (6,6)
+[Oca 08 04:19:46 2026] Round 0: AI (PREY): Robot moved to (5,5)
+[Oca 08 04:19:46 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 08 04:19:46 2026] Round 0: PLAYER: Predator moved from (9,9) to (7,7)
+[Oca 08 04:19:46 2026] Round 0: AI (APEX): Leviathan moved to (3,3)
+[Oca 08 04:19:47 2026] Round 1: AI (PREY): Robot moved to (6,4)
+[Oca 08 04:19:47 2026] Round 1: Player used basic move.
+[Oca 08 04:19:47 2026] Round 1: PLAYER: Predator moved from (7,7) to (6,6)
+[Oca 08 04:19:47 2026] Round 1: AI (APEX): Leviathan moved to (4,4)
+[Oca 08 04:19:47 2026] Round 2: AI (PREY): Robot moved to (7,3)
+[Oca 08 04:19:47 2026] Round 2: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 04:19:47 2026] Round 2: Player used basic move.
+[Oca 08 04:19:47 2026] Round 2: PLAYER: Predator moved from (6,6) to (7,5)
+[Oca 08 04:19:47 2026] Round 2: AI (APEX): Leviathan moved to (5,3)
+[Oca 08 04:19:48 2026] Round 3: AI (PREY): Robot moved to (9,0)
+[Oca 08 04:19:48 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 08 04:19:48 2026] Round 3: PLAYER: Predator moved from (7,5) to (9,3)
+[Oca 08 04:19:48 2026] Round 3: AI (APEX): Leviathan moved to (6,3)
+[Oca 08 04:19:49 2026] Round 4: AI (PREY): Robot moved to (8,0)
+[Oca 08 04:19:49 2026] Round 4: Player used basic move.
+[Oca 08 04:19:49 2026] Round 4: PLAYER: Predator moved from (9,3) to (9,2)
+[Oca 08 04:19:49 2026] Round 4: AI (APEX): Leviathan moved to (9,2)
+[Oca 08 04:19:49 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (9,2)
+[Oca 08 04:19:53 2026] Round 5: AI (PREY): Robot moved to (7,0)
+[Oca 08 04:19:53 2026] Round 5: Player used basic move.
+[Oca 08 04:19:53 2026] Round 5: PLAYER: Predator moved from (1,6) to (2,7)
+[Oca 08 04:19:53 2026] Round 5: AI (APEX): Leviathan moved to (8,1)
+[Oca 08 04:31:37 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 08 04:31:37 2026] Round 0: AI (PREY): Bunny moved to (6,6)
+[Oca 08 04:36:44 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 04:36:45 2026] Round 0: AI (PREY): Triceratops moved to (6,6)
+[Oca 08 04:37:09 2026] Round 0: AI (PREY): Triceratops moved to (5,5)
+[Oca 08 04:37:09 2026] Round 0: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:09 2026] Round 0: AI (APEX): T-Rex moved to (2,2)
+[Oca 08 04:37:09 2026] Round 1: AI (PREY): Triceratops moved to (6,5)
+[Oca 08 04:37:09 2026] Round 1: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:09 2026] Round 1: AI (APEX): T-Rex moved to (3,3)
+[Oca 08 04:37:10 2026] Round 2: AI (PREY): Triceratops moved to (7,3)
+[Oca 08 04:37:10 2026] Round 2: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 04:37:10 2026] Round 2: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:10 2026] Round 2: AI (APEX): T-Rex moved to (4,3)
+[Oca 08 04:37:10 2026] Round 3: AI (PREY): Triceratops moved to (8,4)
+[Oca 08 04:37:10 2026] Round 3: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:10 2026] Round 3: AI (APEX): T-Rex moved to (5,4)
+[Oca 08 04:37:10 2026] Round 4: AI (PREY): Triceratops moved to (9,3)
+[Oca 08 04:37:10 2026] Round 4: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:10 2026] Round 4: AI (APEX): T-Rex moved to (6,3)
+[Oca 08 04:37:10 2026] Round 5: AI (PREY): Triceratops moved to (9,4)
+[Oca 08 04:37:10 2026] Round 5: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:10 2026] Round 5: AI (APEX): T-Rex moved to (7,4)
+[Oca 08 04:37:11 2026] Round 6: AI (PREY): Triceratops moved to (9,5)
+[Oca 08 04:37:11 2026] Round 6: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:11 2026] Round 6: AI (APEX): T-Rex moved to (8,5)
+[Oca 08 04:37:11 2026] Round 7: AI (PREY): Triceratops moved to (7,4)
+[Oca 08 04:37:11 2026] Round 7: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:11 2026] Round 7: AI (APEX): T-Rex moved to (7,4)
+[Oca 08 04:37:11 2026] Round 7: EVENT: Apex CAUGHT Prey at (7,4)
+[Oca 08 04:37:11 2026] Round 8: AI (PREY): Triceratops moved to (2,7)
+[Oca 08 04:37:11 2026] Round 8: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:11 2026] Round 8: AI (APEX): T-Rex moved to (9,6)
+[Oca 08 04:37:11 2026] Round 9: AI (PREY): Triceratops moved to (1,7)
+[Oca 08 04:37:11 2026] Round 9: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 08 04:37:11 2026] Round 9: AI (APEX): T-Rex moved to (9,7)
+[Oca 08 04:37:11 2026] GAME OVER: PREY WINS! Final Score: 0
+[Oca 08 04:37:48 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 04:37:49 2026] Round 0: AI (PREY): Stegosaurus moved to (6,6)
+[Oca 08 04:37:53 2026] Round 0: AI (PREY): Stegosaurus moved to (5,5)
+[Oca 08 04:37:53 2026] Round 0: Player used basic move.
+[Oca 08 04:37:53 2026] Round 0: PLAYER: Predator moved from (9,9) to (8,8)
+[Oca 08 04:37:53 2026] Round 0: AI (APEX): Giganotosaurus moved to (2,2)
+[Oca 08 04:37:54 2026] Round 1: AI (PREY): Stegosaurus moved to (6,4)
+[Oca 08 04:37:54 2026] Round 1: Player used basic move.
+[Oca 08 04:37:54 2026] Round 1: PLAYER: Predator moved from (8,8) to (7,7)
+[Oca 08 04:37:54 2026] Round 1: AI (APEX): Giganotosaurus moved to (3,3)
+[Oca 08 04:38:14 2026] Round 2: AI (PREY): Stegosaurus moved to (7,3)
+[Oca 08 04:38:14 2026] Round 2: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 04:38:14 2026] Round 2: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 08 04:38:14 2026] Round 2: AI (APEX): Giganotosaurus moved to (4,3)
+[Oca 08 04:38:14 2026] Round 3: AI (PREY): Stegosaurus moved to (8,4)
+[Oca 08 04:38:14 2026] Round 3: EVENT: Prey ATE FOOD at (8,4) | New Prey Score: 3
+[Oca 08 04:38:14 2026] Round 3: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 08 04:38:14 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,4)
+[Oca 08 04:38:15 2026] Round 4: AI (PREY): Stegosaurus moved to (9,2)
+[Oca 08 04:38:15 2026] Round 4: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 08 04:38:15 2026] Round 4: AI (APEX): Giganotosaurus moved to (7,6)
+[Oca 08 04:38:15 2026] Round 5: AI (PREY): Stegosaurus moved to (9,1)
+[Oca 08 04:38:15 2026] Round 5: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 08 04:38:15 2026] Round 5: AI (APEX): Giganotosaurus moved to (7,7)
+[Oca 08 04:38:15 2026] Round 5: EVENT: Apex CAUGHT PLAYER at (7,7)
+[Oca 08 04:38:15 2026] Round 6: AI (PREY): Stegosaurus moved to (9,2)
+[Oca 08 04:38:15 2026] Round 6: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 04:38:16 2026] Round 6: AI (PREY): Stegosaurus moved to (9,3)
+[Oca 08 04:38:16 2026] Round 6: PLAYER: Predator moved from (8,1) to (8,1)
+[Oca 08 04:38:16 2026] Round 6: AI (APEX): Giganotosaurus moved to (8,6)
+[Oca 08 04:38:16 2026] Round 7: AI (PREY): Stegosaurus moved to (7,4)
+[Oca 08 04:38:16 2026] Round 7: Player used basic move.
+[Oca 08 04:38:16 2026] Round 7: PLAYER: Predator moved from (8,1) to (8,2)
+[Oca 08 04:38:16 2026] Round 7: AI (APEX): Giganotosaurus moved to (7,5)
+[Oca 08 04:38:17 2026] Round 8: AI (PREY): Stegosaurus moved to (6,3)
+[Oca 08 04:38:17 2026] Round 8: PLAYER: Predator moved from (8,2) to (8,2)
+[Oca 08 04:38:17 2026] Round 8: AI (APEX): Giganotosaurus moved to (6,4)
+[Oca 08 04:38:17 2026] Round 9: AI (PREY): Stegosaurus moved to (5,2)
+[Oca 08 04:38:17 2026] Round 9: Player used basic move.
+[Oca 08 04:38:17 2026] Round 9: PLAYER: Predator moved from (8,2) to (7,2)
+[Oca 08 04:38:17 2026] Round 9: AI (APEX): Giganotosaurus moved to (7,3)
+[Oca 08 04:38:17 2026] GAME OVER: PREY WINS! Final Score: -1
+[Oca 08 04:38:24 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 08 04:38:24 2026] Round 0: AI (PREY): Deer moved to (6,6)
+[Oca 08 04:38:29 2026] Round 0: AI (PREY): Deer moved to (5,5)
+[Oca 08 04:38:29 2026] Round 0: Player used basic move.
+[Oca 08 04:38:29 2026] Round 0: PLAYER: Predator moved from (9,9) to (8,8)
+[Oca 08 04:38:29 2026] Round 0: AI (APEX): Polar Bear moved to (3,3)
+[Oca 08 04:38:29 2026] Round 1: AI (PREY): Deer moved to (6,5)
+[Oca 08 04:38:29 2026] Round 1: Player used basic move.
+[Oca 08 04:38:29 2026] Round 1: PLAYER: Predator moved from (8,8) to (7,7)
+[Oca 08 04:38:29 2026] Round 1: AI (APEX): Polar Bear moved to (4,4)
+[Oca 08 04:38:30 2026] Round 2: AI (PREY): Deer moved to (7,4)
+[Oca 08 04:38:30 2026] Round 2: Player used basic move.
+[Oca 08 04:38:30 2026] Round 2: PLAYER: Predator moved from (7,7) to (6,6)
+[Oca 08 04:38:30 2026] Round 2: AI (APEX): Polar Bear moved to (5,4)
+[Oca 08 04:38:31 2026] Round 3: AI (PREY): Deer moved to (7,3)
+[Oca 08 04:38:31 2026] Round 3: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 04:38:31 2026] Round 3: Player used basic move.
+[Oca 08 04:38:31 2026] Round 3: PLAYER: Predator moved from (6,6) to (5,6)
+[Oca 08 04:38:31 2026] Round 3: AI (APEX): Polar Bear moved to (5,5)
+[Oca 08 04:39:03 2026] Round 4: AI (PREY): Deer moved to (6,3)
+[Oca 08 04:39:03 2026] Round 4: EVENT: Prey ATE FOOD at (6,3) | New Prey Score: 3
+[Oca 08 04:39:03 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: PRESENT)
+[Oca 08 04:39:03 2026] Round 4: PLAYER: Predator moved from (5,6) to (7,8)
+[Oca 08 04:39:03 2026] Round 4: AI (APEX): Polar Bear moved to (6,4)
+[Oca 08 04:39:04 2026] Round 5: AI (PREY): Deer moved to (4,5)
+[Oca 08 04:39:04 2026] Round 5: PLAYER: Predator moved from (7,8) to (7,8)
+[Oca 08 04:39:04 2026] Round 5: AI (APEX): Polar Bear moved to (5,5)
+[Oca 08 04:39:05 2026] Round 6: AI (PREY): Deer moved to (3,6)
+[Oca 08 04:39:05 2026] Round 6: PLAYER: Predator moved from (7,8) to (7,8)
+[Oca 08 04:39:05 2026] Round 6: AI (APEX): Polar Bear moved to (4,6)
+[Oca 08 04:39:05 2026] Round 7: AI (PREY): Deer moved to (2,7)
+[Oca 08 04:39:05 2026] Round 7: PLAYER: Predator moved from (7,8) to (7,8)
+[Oca 08 04:39:05 2026] Round 7: AI (APEX): Polar Bear moved to (3,7)
+[Oca 08 04:39:05 2026] Round 8: AI (PREY): Deer moved to (1,8)
+[Oca 08 04:39:05 2026] Round 8: PLAYER: Predator moved from (7,8) to (7,8)
+[Oca 08 04:39:05 2026] Round 8: AI (APEX): Polar Bear moved to (2,8)
+[Oca 08 04:39:05 2026] Round 9: AI (PREY): Deer moved to (0,9)
+[Oca 08 04:39:05 2026] Round 9: EVENT: Prey ATE FOOD at (0,9) | New Prey Score: 6
+[Oca 08 04:39:05 2026] Round 9: PLAYER: Predator moved from (7,8) to (7,8)
+[Oca 08 04:39:05 2026] Round 9: AI (APEX): Polar Bear moved to (1,9)
+[Oca 08 04:39:05 2026] GAME OVER: PREY WINS! Final Score: 0
+[Oca 08 04:39:24 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 08 04:39:24 2026] Round 0: AI (PREY): Human moved to (6,6)
+[Oca 08 04:39:27 2026] Round 0: AI (PREY): Human moved to (5,5)
+[Oca 08 04:39:27 2026] Round 0: Player used basic move.
+[Oca 08 04:39:27 2026] Round 0: PLAYER: Predator moved from (9,9) to (8,8)
+[Oca 08 04:39:27 2026] Round 0: AI (APEX): Alien Overlord moved to (3,3)
+[Oca 08 04:39:28 2026] Round 1: AI (PREY): Human moved to (6,5)
+[Oca 08 04:39:28 2026] Round 1: Player used basic move.
+[Oca 08 04:39:28 2026] Round 1: PLAYER: Predator moved from (8,8) to (7,7)
+[Oca 08 04:39:28 2026] Round 1: AI (APEX): Alien Overlord moved to (4,4)
+[Oca 08 05:24:35 2026] Round 2: AI (PREY): Human moved to (9,2)
+[Oca 08 05:24:35 2026] Round 2: Player used basic move.
+[Oca 08 05:24:35 2026] Round 2: PLAYER: Predator moved from (7,7) to (7,8)
+[Oca 08 05:24:35 2026] Round 2: AI (APEX): Alien Overlord moved to (5,5)
+[Oca 08 05:24:35 2026] Round 3: AI (PREY): Human moved to (9,1)
+[Oca 08 05:24:35 2026] Round 3: Player used basic move.
+[Oca 08 05:24:35 2026] Round 3: PLAYER: Predator moved from (7,8) to (8,8)
+[Oca 08 05:24:35 2026] Round 3: AI (APEX): Alien Overlord moved to (6,6)
+[Oca 08 05:24:35 2026] Round 4: AI (PREY): Human moved to (9,0)
+[Oca 08 05:24:35 2026] Round 4: PLAYER: Predator moved from (8,8) to (8,8)
+[Oca 08 05:24:35 2026] Round 4: AI (APEX): Alien Overlord moved to (8,8)
+[Oca 08 05:24:35 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (8,8)
+[Oca 08 05:24:37 2026] Round 5: AI (PREY): Human moved to (9,1)
+[Oca 08 05:24:37 2026] Round 5: Player used basic move.
+[Oca 08 05:24:37 2026] Round 5: PLAYER: Predator moved from (5,2) to (4,2)
+[Oca 08 05:24:37 2026] Round 5: AI (APEX): Alien Overlord moved to (9,7)
+[Oca 08 05:24:37 2026] Round 6: AI (PREY): Human moved to (9,0)
+[Oca 08 05:24:37 2026] Round 6: Player used basic move.
+[Oca 08 05:24:37 2026] Round 6: PLAYER: Predator moved from (4,2) to (3,2)
+[Oca 08 05:24:37 2026] Round 6: AI (APEX): Alien Overlord moved to (9,6)
+[Oca 08 05:24:37 2026] Round 7: AI (PREY): Human moved to (8,0)
+[Oca 08 05:24:37 2026] Round 7: Player used basic move.
+[Oca 08 05:24:37 2026] Round 7: PLAYER: Predator moved from (3,2) to (2,2)
+[Oca 08 05:24:37 2026] Round 7: AI (APEX): Alien Overlord moved to (8,5)
+[Oca 08 05:24:38 2026] Round 8: AI (PREY): Human moved to (6,0)
+[Oca 08 05:24:38 2026] Round 8: PLAYER: Predator moved from (2,2) to (2,2)
+[Oca 08 05:24:38 2026] Round 8: AI (APEX): Alien Overlord moved to (6,2)
+[Oca 08 05:24:38 2026] Round 9: AI (PREY): Human moved to (7,0)
+[Oca 08 05:24:38 2026] Round 9: Player used basic move.
+[Oca 08 05:24:38 2026] Round 9: PLAYER: Predator moved from (2,2) to (1,2)
+[Oca 08 05:24:38 2026] Round 9: AI (APEX): Alien Overlord moved to (7,1)
+[Oca 08 05:24:38 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -1
+[Oca 08 06:40:15 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 06:40:23 2026] Round 0: AI (PREY): Stegosaurus moved to (6,6)
+[Oca 08 06:40:23 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 06:40:23 2026] Round 0: PLAYER: Predator moved from (9,9) to (9,7)
+[Oca 08 06:40:23 2026] Round 0: AI (APEX): Giganotosaurus moved to (2,2)
+[Oca 08 06:40:27 2026] Round 1: AI (PREY): Stegosaurus moved to (5,5)
+[Oca 08 06:40:27 2026] Round 1: Player used basic move.
+[Oca 08 06:40:27 2026] Round 1: PLAYER: Predator moved from (9,7) to (8,6)
+[Oca 08 06:40:27 2026] Round 1: AI (APEX): Giganotosaurus moved to (3,3)
+[Oca 08 06:40:28 2026] Round 2: AI (PREY): Stegosaurus moved to (6,4)
+[Oca 08 06:40:28 2026] Round 2: Player used basic move.
+[Oca 08 06:40:28 2026] Round 2: PLAYER: Predator moved from (8,6) to (7,5)
+[Oca 08 06:40:28 2026] Round 2: AI (APEX): Giganotosaurus moved to (4,4)
+[Oca 08 06:40:31 2026] Round 3: AI (PREY): Stegosaurus moved to (7,3)
+[Oca 08 06:40:31 2026] Round 3: EVENT: Prey ATE FOOD at (7,3) | New Prey Score: 0
+[Oca 08 06:40:31 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 06:40:31 2026] Round 3: PLAYER: Predator moved from (7,5) to (7,3)
+[Oca 08 06:40:31 2026] Round 3: EVENT: Hunter CAUGHT Prey at (7,3) | Score: 3
+[Oca 08 06:40:31 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,3)
+[Oca 08 06:40:34 2026] Round 4: AI (PREY): Stegosaurus moved to (8,8)
+[Oca 08 06:40:34 2026] Round 4: EVENT: Prey ATE FOOD at (8,8) | New Prey Score: 2
+[Oca 08 06:40:34 2026] Round 4: Player used basic move.
+[Oca 08 06:40:34 2026] Round 4: PLAYER: Predator moved from (7,3) to (8,4)
+[Oca 08 06:40:34 2026] Round 4: AI (APEX): Giganotosaurus moved to (6,4)
+[Oca 08 06:40:35 2026] Round 5: AI (PREY): Stegosaurus moved to (7,9)
+[Oca 08 06:40:35 2026] Round 5: Player used basic move.
+[Oca 08 06:40:35 2026] Round 5: PLAYER: Predator moved from (8,4) to (8,5)
+[Oca 08 06:40:35 2026] Round 5: AI (APEX): Giganotosaurus moved to (7,5)
+[Oca 08 06:40:35 2026] Round 6: AI (PREY): Stegosaurus moved to (5,8)
+[Oca 08 06:40:35 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 06:40:35 2026] Round 6: PLAYER: Predator moved from (8,5) to (8,7)
+[Oca 08 06:40:35 2026] Round 6: AI (APEX): Giganotosaurus moved to (8,6)
+[Oca 08 06:40:36 2026] Round 7: AI (PREY): Stegosaurus moved to (4,9)
+[Oca 08 06:40:36 2026] Round 7: Player used basic move.
+[Oca 08 06:40:36 2026] Round 7: PLAYER: Predator moved from (8,7) to (7,8)
+[Oca 08 06:40:36 2026] Round 7: AI (APEX): Giganotosaurus moved to (7,7)
+[Oca 08 06:40:37 2026] Round 8: AI (PREY): Stegosaurus moved to (3,9)
+[Oca 08 06:40:37 2026] Round 8: Player used basic move.
+[Oca 08 06:40:37 2026] Round 8: PLAYER: Predator moved from (7,8) to (6,8)
+[Oca 08 06:40:37 2026] Round 8: AI (APEX): Giganotosaurus moved to (6,8)
+[Oca 08 06:40:37 2026] Round 8: EVENT: Apex CAUGHT PLAYER at (6,8)
+[Oca 08 08:09:07 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:09:24 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:09:46 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:10:04 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 08 08:11:08 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:13:06 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:15:12 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:16:19 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:16:25 2026] Round 0: AI (PREY): Stegosaurus moved to (2,3)
+[Oca 08 08:16:25 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:16:25 2026] Round 0: PLAYER: Predator moved from (5,9) to (5,7)
+[Oca 08 08:16:25 2026] Round 0: AI (APEX): Giganotosaurus moved to (2,5)
+[Oca 08 08:16:26 2026] Round 1: AI (PREY): Stegosaurus moved to (1,2)
+[Oca 08 08:16:26 2026] Round 1: Player used basic move.
+[Oca 08 08:16:26 2026] Round 1: PLAYER: Predator moved from (5,7) to (6,7)
+[Oca 08 08:16:26 2026] Round 1: AI (APEX): Giganotosaurus moved to (1,4)
+[Oca 08 08:16:26 2026] Round 2: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 08 08:16:26 2026] Round 2: Player used basic move.
+[Oca 08 08:16:26 2026] Round 2: PLAYER: Predator moved from (6,7) to (7,8)
+[Oca 08 08:16:26 2026] Round 2: AI (APEX): Giganotosaurus moved to (0,3)
+[Oca 08 08:16:27 2026] Round 3: AI (PREY): Stegosaurus moved to (1,0)
+[Oca 08 08:16:27 2026] Round 3: EVENT: Prey ATE FOOD at (1,0) | New Prey Score: 0
+[Oca 08 08:16:27 2026] Round 3: Player used basic move.
+[Oca 08 08:16:27 2026] Round 3: PLAYER: Predator moved from (7,8) to (6,7)
+[Oca 08 08:16:27 2026] Round 3: AI (APEX): Giganotosaurus moved to (1,2)
+[Oca 08 08:16:42 2026] Round 4: AI (PREY): Stegosaurus moved to (2,0)
+[Oca 08 08:16:42 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:16:42 2026] Round 4: PLAYER: Predator moved from (6,7) to (6,5)
+[Oca 08 08:16:42 2026] Round 4: AI (APEX): Giganotosaurus moved to (2,1)
+[Oca 08 08:16:43 2026] Round 5: AI (PREY): Stegosaurus moved to (3,2)
+[Oca 08 08:16:43 2026] Round 5: Player used basic move.
+[Oca 08 08:16:43 2026] Round 5: PLAYER: Predator moved from (6,5) to (5,5)
+[Oca 08 08:16:43 2026] Round 5: AI (APEX): Giganotosaurus moved to (3,2)
+[Oca 08 08:16:43 2026] Round 5: EVENT: Apex CAUGHT Prey at (3,2)
+[Oca 08 08:16:43 2026] Round 6: AI (PREY): Stegosaurus moved to (8,3)
+[Oca 08 08:16:43 2026] Round 6: Player used basic move.
+[Oca 08 08:16:43 2026] Round 6: PLAYER: Predator moved from (5,5) to (4,5)
+[Oca 08 08:16:43 2026] Round 6: AI (APEX): Giganotosaurus moved to (4,3)
+[Oca 08 08:16:44 2026] Round 7: AI (PREY): Stegosaurus moved to (9,4)
+[Oca 08 08:16:44 2026] Round 7: Player used basic move.
+[Oca 08 08:16:44 2026] Round 7: PLAYER: Predator moved from (4,5) to (3,6)
+[Oca 08 08:16:44 2026] Round 7: AI (APEX): Giganotosaurus moved to (3,4)
+[Oca 08 08:16:46 2026] Round 8: AI (PREY): Stegosaurus moved to (9,5)
+[Oca 08 08:16:46 2026] Round 8: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:16:46 2026] Round 8: PLAYER: Predator moved from (3,6) to (3,8)
+[Oca 08 08:16:46 2026] Round 8: AI (APEX): Giganotosaurus moved to (3,6)
+[Oca 08 08:16:47 2026] Round 9: AI (PREY): Stegosaurus moved to (8,7)
+[Oca 08 08:16:47 2026] Round 9: Player used basic move.
+[Oca 08 08:16:47 2026] Round 9: PLAYER: Predator moved from (3,8) to (4,9)
+[Oca 08 08:16:47 2026] Round 9: AI (APEX): Giganotosaurus moved to (4,7)
+[Oca 08 08:16:47 2026] GAME OVER: PREY WINS! Final Score: 0
+[Oca 08 08:16:50 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 08 08:16:56 2026] Round 0: AI (PREY): Deer moved to (0,2)
+[Oca 08 08:16:56 2026] Round 0: Player used basic move.
+[Oca 08 08:16:56 2026] Round 0: PLAYER: Predator moved from (5,4) to (4,4)
+[Oca 08 08:16:56 2026] Round 0: AI (APEX): Polar Bear moved to (3,3)
+[Oca 08 08:17:00 2026] Round 1: AI (PREY): Deer moved to (0,1)
+[Oca 08 08:17:00 2026] Round 1: ACTION: Hunter used SPECIAL SKILL! (Era: PRESENT)
+[Oca 08 08:17:00 2026] Round 1: PLAYER: Predator moved from (4,4) to (2,5)
+[Oca 08 08:17:00 2026] Round 1: AI (APEX): Polar Bear moved to (2,4)
+[Oca 08 08:17:02 2026] Round 2: AI (PREY): Deer moved to (0,0)
+[Oca 08 08:17:02 2026] Round 2: ACTION: Hunter used SPECIAL SKILL! (Era: PRESENT)
+[Oca 08 08:17:02 2026] Round 2: PLAYER: Predator moved from (2,5) to (0,3)
+[Oca 08 08:17:02 2026] Round 2: AI (APEX): Polar Bear moved to (1,3)
+[Oca 08 08:17:04 2026] Round 3: AI (PREY): Deer moved to (2,0)
+[Oca 08 08:17:04 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PRESENT)
+[Oca 08 08:17:04 2026] Round 3: PLAYER: Predator moved from (0,3) to (2,1)
+[Oca 08 08:17:04 2026] Round 3: AI (APEX): Polar Bear moved to (2,2)
+[Oca 08 08:17:06 2026] Round 4: AI (PREY): Deer moved to (3,0)
+[Oca 08 08:17:06 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: PRESENT)
+[Oca 08 08:17:06 2026] Round 4: PLAYER: Predator moved from (2,1) to (4,0)
+[Oca 08 08:17:06 2026] Round 4: AI (APEX): Polar Bear moved to (4,0)
+[Oca 08 08:17:06 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (4,0)
+[Oca 08 08:17:10 2026] Round 5: AI (PREY): Deer moved to (2,1)
+[Oca 08 08:17:10 2026] Round 5: Player used basic move.
+[Oca 08 08:17:10 2026] Round 5: PLAYER: Predator moved from (4,6) to (5,6)
+[Oca 08 08:17:10 2026] Round 5: AI (APEX): Polar Bear moved to (3,1)
+[Oca 08 08:17:10 2026] Round 6: AI (PREY): Deer moved to (1,2)
+[Oca 08 08:17:10 2026] Round 6: Player used basic move.
+[Oca 08 08:17:10 2026] Round 6: PLAYER: Predator moved from (5,6) to (4,6)
+[Oca 08 08:17:10 2026] Round 6: AI (APEX): Polar Bear moved to (2,2)
+[Oca 08 08:17:11 2026] Round 7: AI (PREY): Deer moved to (3,4)
+[Oca 08 08:17:11 2026] Round 7: Player used basic move.
+[Oca 08 08:17:11 2026] Round 7: PLAYER: Predator moved from (4,6) to (4,7)
+[Oca 08 08:17:11 2026] Round 7: AI (APEX): Polar Bear moved to (3,3)
+[Oca 08 08:17:14 2026] Round 8: AI (PREY): Deer moved to (4,3)
+[Oca 08 08:17:14 2026] Round 8: EVENT: Prey ATE FOOD at (4,3) | New Prey Score: 0
+[Oca 08 08:17:14 2026] Round 8: Player used basic move.
+[Oca 08 08:17:14 2026] Round 8: PLAYER: Predator moved from (4,7) to (4,6)
+[Oca 08 08:17:14 2026] Round 8: AI (APEX): Polar Bear moved to (4,3)
+[Oca 08 08:17:14 2026] Round 8: EVENT: Apex CAUGHT Prey at (4,3)
+[Oca 08 08:17:15 2026] Round 9: AI (PREY): Deer moved to (6,5)
+[Oca 08 08:17:15 2026] Round 9: PLAYER: Predator moved from (4,6) to (4,6)
+[Oca 08 08:17:15 2026] Round 9: AI (APEX): Polar Bear moved to (4,6)
+[Oca 08 08:17:15 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (4,6)
+[Oca 08 08:17:15 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -2
+[Oca 08 08:17:24 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 08 08:21:30 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:21:34 2026] Round 0: AI (PREY): Stegosaurus moved to (5,8)
+[Oca 08 08:21:34 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:21:34 2026] Round 0: PLAYER: Predator moved from (1,1) to (1,3)
+[Oca 08 08:21:34 2026] Round 0: AI (APEX): Giganotosaurus moved to (1,3)
+[Oca 08 08:21:34 2026] Round 0: EVENT: Apex CAUGHT PLAYER at (1,3)
+[Oca 08 08:21:37 2026] Round 1: AI (PREY): Stegosaurus moved to (4,9)
+[Oca 08 08:21:37 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:37 2026] Round 1: AI (PREY): Stegosaurus moved to (4,8)
+[Oca 08 08:21:37 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:37 2026] Round 1: AI (PREY): Stegosaurus moved to (4,9)
+[Oca 08 08:21:37 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:38 2026] Round 1: AI (PREY): Stegosaurus moved to (4,8)
+[Oca 08 08:21:38 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:38 2026] Round 1: AI (PREY): Stegosaurus moved to (4,9)
+[Oca 08 08:21:38 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:38 2026] Round 1: AI (PREY): Stegosaurus moved to (4,8)
+[Oca 08 08:21:38 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:39 2026] Round 1: AI (PREY): Stegosaurus moved to (4,9)
+[Oca 08 08:21:39 2026] Round 1: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:21:39 2026] Round 1: AI (PREY): Stegosaurus moved to (3,9)
+[Oca 08 08:21:39 2026] Round 1: Player used basic move.
+[Oca 08 08:21:39 2026] Round 1: PLAYER: Predator moved from (9,4) to (8,4)
+[Oca 08 08:21:39 2026] Round 1: AI (APEX): Giganotosaurus moved to (3,5)
+[Oca 08 08:21:40 2026] Round 2: AI (PREY): Stegosaurus moved to (2,9)
+[Oca 08 08:21:40 2026] Round 2: Player used basic move.
+[Oca 08 08:21:40 2026] Round 2: PLAYER: Predator moved from (8,4) to (7,5)
+[Oca 08 08:21:40 2026] Round 2: AI (APEX): Giganotosaurus moved to (4,5)
+[Oca 08 08:21:41 2026] Round 3: AI (PREY): Stegosaurus moved to (1,9)
+[Oca 08 08:21:41 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:21:41 2026] Round 3: PLAYER: Predator moved from (7,5) to (7,3)
+[Oca 08 08:21:41 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,4)
+[Oca 08 08:21:41 2026] Round 4: AI (PREY): Stegosaurus moved to (0,9)
+[Oca 08 08:21:41 2026] Round 4: Player used basic move.
+[Oca 08 08:21:41 2026] Round 4: PLAYER: Predator moved from (7,3) to (7,4)
+[Oca 08 08:21:41 2026] Round 4: AI (APEX): Giganotosaurus moved to (7,4)
+[Oca 08 08:21:41 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (7,4)
+[Oca 08 08:21:43 2026] Round 5: AI (PREY): Stegosaurus moved to (1,9)
+[Oca 08 08:21:43 2026] Round 5: Player used basic move.
+[Oca 08 08:21:43 2026] Round 5: PLAYER: Predator moved from (5,5) to (4,6)
+[Oca 08 08:21:43 2026] Round 5: AI (APEX): Giganotosaurus moved to (6,5)
+[Oca 08 08:21:44 2026] Round 6: AI (PREY): Stegosaurus moved to (0,9)
+[Oca 08 08:21:44 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 08 08:21:44 2026] Round 6: PLAYER: Predator moved from (4,6) to (4,8)
+[Oca 08 08:21:44 2026] Round 6: AI (APEX): Giganotosaurus moved to (5,6)
+[Oca 08 08:21:45 2026] Round 7: AI (PREY): Stegosaurus moved to (1,7)
+[Oca 08 08:21:45 2026] Round 7: Player used basic move.
+[Oca 08 08:21:45 2026] Round 7: PLAYER: Predator moved from (4,8) to (3,7)
+[Oca 08 08:21:45 2026] Round 7: AI (APEX): Giganotosaurus moved to (4,7)
+[Oca 08 08:21:47 2026] Round 8: AI (PREY): Stegosaurus moved to (0,6)
+[Oca 08 08:21:47 2026] Round 8: Player used basic move.
+[Oca 08 08:21:47 2026] Round 8: PLAYER: Predator moved from (3,7) to (2,6)
+[Oca 08 08:21:47 2026] Round 8: AI (APEX): Giganotosaurus moved to (3,6)
+[Oca 08 08:21:48 2026] Round 9: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 08 08:21:48 2026] Round 9: Player used basic move.
+[Oca 08 08:21:48 2026] Round 9: PLAYER: Predator moved from (2,6) to (1,5)
+[Oca 08 08:21:48 2026] Round 9: AI (APEX): Giganotosaurus moved to (2,5)
+[Oca 08 08:21:48 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -2
+[Oca 08 08:31:11 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 08 08:31:12 2026] Round 0: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 08 08:31:12 2026] Round 0: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:31:13 2026] Round 0: AI (PREY): Stegosaurus moved to (1,0)
+[Oca 08 08:31:13 2026] Round 0: Player used basic move.
+[Oca 08 08:31:13 2026] Round 0: PLAYER: Predator moved from (7,4) to (7,5)
+[Oca 08 08:31:13 2026] Round 0: AI (APEX): Giganotosaurus moved to (5,5)
+[Oca 08 08:31:13 2026] Round 1: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 08 08:31:13 2026] Round 1: Player used basic move.
+[Oca 08 08:31:13 2026] Round 1: PLAYER: Predator moved from (7,5) to (8,4)
+[Oca 08 08:31:13 2026] Round 1: AI (APEX): Giganotosaurus moved to (6,4)
+[Oca 08 08:31:13 2026] Round 2: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 08 08:31:13 2026] Round 2: Player used basic move.
+[Oca 08 08:31:13 2026] Round 2: PLAYER: Predator moved from (8,4) to (8,5)
+[Oca 08 08:31:13 2026] Round 2: AI (APEX): Giganotosaurus moved to (7,5)
+[Oca 08 08:31:14 2026] Round 3: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 08 08:31:14 2026] Round 3: Player used basic move.
+[Oca 08 08:31:14 2026] Round 3: PLAYER: Predator moved from (8,5) to (7,5)
+[Oca 08 08:31:14 2026] Round 3: AI (APEX): Giganotosaurus moved to (8,5)
+[Oca 08 08:31:14 2026] Round 4: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 08 08:31:14 2026] Round 4: PLAYER: Predator moved from (7,5) to (7,5)
+[Oca 08 08:31:14 2026] Round 4: AI (APEX): Giganotosaurus moved to (7,5)
+[Oca 08 08:31:14 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (7,5)
+[Oca 08 08:31:14 2026] Round 5: AI (PREY): Stegosaurus moved to (1,3)
+[Oca 08 08:31:14 2026] Round 5: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:31:14 2026] Round 5: AI (PREY): Stegosaurus moved to (0,4)
+[Oca 08 08:31:14 2026] Round 5: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:31:14 2026] Round 5: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 08 08:31:14 2026] Round 5: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 08 08:31:14 2026] Round 5: AI (PREY): Stegosaurus moved to (0,6)
+[Oca 08 08:31:14 2026] Round 5: PLAYER: Predator moved from (2,1) to (2,1)
+[Oca 08 08:31:14 2026] Round 5: AI (APEX): Giganotosaurus moved to (5,3)
+[Oca 08 08:31:15 2026] Round 6: AI (PREY): Stegosaurus moved to (0,7)
+[Oca 08 08:31:15 2026] Round 6: Player used basic move.
+[Oca 08 08:31:15 2026] Round 6: PLAYER: Predator moved from (2,1) to (2,2)
+[Oca 08 08:31:15 2026] Round 6: AI (APEX): Giganotosaurus moved to (4,2)
+[Oca 08 08:31:15 2026] Round 7: AI (PREY): Stegosaurus moved to (0,8)
+[Oca 08 08:31:15 2026] Round 7: Player used basic move.
+[Oca 08 08:31:15 2026] Round 7: PLAYER: Predator moved from (2,2) to (3,2)
+[Oca 08 08:31:15 2026] Round 7: AI (APEX): Giganotosaurus moved to (3,2)
+[Oca 08 08:31:15 2026] Round 7: EVENT: Apex CAUGHT PLAYER at (3,2)
+[Oca 09 11:01:38 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 09 11:05:02 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 11:05:37 2026] Round 0: AI (PREY): Triceratops moved to (4,9)
+[Oca 09 11:05:37 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:05:37 2026] Round 0: PLAYER: Predator moved from (8,2) to (8,4)
+[Oca 09 11:05:37 2026] Round 0: AI (APEX): T-Rex moved to (8,2)
+[Oca 09 11:05:41 2026] Round 1: AI (PREY): Triceratops moved to (3,9)
+[Oca 09 11:05:41 2026] Round 1: Player used basic move.
+[Oca 09 11:05:41 2026] Round 1: PLAYER: Predator moved from (8,4) to (8,5)
+[Oca 09 11:05:41 2026] Round 1: AI (APEX): T-Rex moved to (8,4)
+[Oca 09 11:05:44 2026] Round 2: AI (PREY): Triceratops moved to (1,8)
+[Oca 09 11:05:44 2026] Round 2: EVENT: Prey ATE FOOD at (1,8) | New Prey Score: 0
+[Oca 09 11:05:44 2026] Round 2: Player used basic move.
+[Oca 09 11:05:44 2026] Round 2: PLAYER: Predator moved from (8,5) to (7,6)
+[Oca 09 11:05:44 2026] Round 2: AI (APEX): T-Rex moved to (7,5)
+[Oca 09 11:06:30 2026] Round 3: AI (PREY): Triceratops moved to (0,9)
+[Oca 09 11:06:30 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:06:30 2026] Round 3: PLAYER: Predator moved from (7,6) to (7,8)
+[Oca 09 11:06:30 2026] Round 3: AI (APEX): T-Rex moved to (7,6)
+[Oca 09 11:06:39 2026] Round 4: AI (PREY): Triceratops moved to (0,8)
+[Oca 09 11:06:39 2026] Round 4: Player used basic move.
+[Oca 09 11:06:39 2026] Round 4: PLAYER: Predator moved from (7,8) to (6,9)
+[Oca 09 11:06:39 2026] Round 4: AI (APEX): T-Rex moved to (6,7)
+[Oca 09 11:06:44 2026] Round 5: AI (PREY): Triceratops moved to (0,7)
+[Oca 09 11:06:44 2026] Round 5: Player used basic move.
+[Oca 09 11:06:44 2026] Round 5: PLAYER: Predator moved from (6,9) to (5,9)
+[Oca 09 11:06:44 2026] Round 5: AI (APEX): T-Rex moved to (5,8)
+[Oca 09 11:06:51 2026] Round 6: AI (PREY): Triceratops moved to (0,6)
+[Oca 09 11:06:51 2026] Round 6: EVENT: Prey ATE FOOD at (0,6) | New Prey Score: 3
+[Oca 09 11:06:51 2026] Round 6: Player used basic move.
+[Oca 09 11:06:51 2026] Round 6: PLAYER: Predator moved from (5,9) to (4,9)
+[Oca 09 11:06:51 2026] Round 6: AI (APEX): T-Rex moved to (4,9)
+[Oca 09 11:06:51 2026] Round 6: EVENT: Apex CAUGHT PLAYER at (4,9)
+[Oca 09 11:07:01 2026] Round 7: AI (PREY): Triceratops moved to (1,4)
+[Oca 09 11:07:01 2026] Round 7: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:07:01 2026] Round 7: PLAYER: Predator moved from (3,8) to (3,6)
+[Oca 09 11:07:01 2026] Round 7: AI (APEX): T-Rex moved to (3,8)
+[Oca 09 11:07:23 2026] Round 8: AI (PREY): Triceratops moved to (0,3)
+[Oca 09 11:07:23 2026] Round 8: Player used basic move.
+[Oca 09 11:07:23 2026] Round 8: PLAYER: Predator moved from (3,6) to (2,5)
+[Oca 09 11:07:23 2026] Round 8: AI (APEX): T-Rex moved to (2,7)
+[Oca 09 11:07:23 2026] Round 9: AI (PREY): Triceratops moved to (0,2)
+[Oca 09 11:07:23 2026] Round 9: PLAYER: Predator moved from (2,5) to (2,5)
+[Oca 09 11:07:23 2026] Round 9: AI (APEX): T-Rex moved to (2,5)
+[Oca 09 11:07:23 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (2,5)
+[Oca 09 11:07:23 2026] GAME OVER: PREY WINS! Final Score: -2
+[Oca 09 11:07:30 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 11:07:44 2026] Round 0: AI (PREY): Stegosaurus moved to (9,0)
+[Oca 09 11:07:44 2026] Round 0: Player used basic move.
+[Oca 09 11:07:44 2026] Round 0: PLAYER: Predator moved from (2,1) to (1,2)
+[Oca 09 11:07:44 2026] Round 0: AI (APEX): Giganotosaurus moved to (2,2)
+[Oca 09 11:07:45 2026] Round 1: AI (PREY): Stegosaurus moved to (8,0)
+[Oca 09 11:07:45 2026] Round 1: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:07:45 2026] Round 1: PLAYER: Predator moved from (1,2) to (1,4)
+[Oca 09 11:07:45 2026] Round 1: AI (APEX): Giganotosaurus moved to (1,3)
+[Oca 09 11:07:46 2026] Round 2: AI (PREY): Stegosaurus moved to (9,0)
+[Oca 09 11:07:46 2026] Round 2: Player used basic move.
+[Oca 09 11:07:46 2026] Round 2: PLAYER: Predator moved from (1,4) to (2,5)
+[Oca 09 11:07:46 2026] Round 2: AI (APEX): Giganotosaurus moved to (2,4)
+[Oca 09 11:07:48 2026] Round 3: AI (PREY): Stegosaurus moved to (8,0)
+[Oca 09 11:07:48 2026] Round 3: Player used basic move.
+[Oca 09 11:07:48 2026] Round 3: PLAYER: Predator moved from (2,5) to (3,5)
+[Oca 09 11:07:48 2026] Round 3: AI (APEX): Giganotosaurus moved to (3,5)
+[Oca 09 11:07:48 2026] Round 3: EVENT: Apex CAUGHT PLAYER at (3,5)
+[Oca 09 11:07:52 2026] Round 4: AI (PREY): Stegosaurus moved to (9,0)
+[Oca 09 11:07:52 2026] Round 4: Player used basic move.
+[Oca 09 11:07:52 2026] Round 4: PLAYER: Predator moved from (2,6) to (3,6)
+[Oca 09 11:07:52 2026] Round 4: AI (APEX): Giganotosaurus moved to (3,6)
+[Oca 09 11:07:52 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (3,6)
+[Oca 09 11:07:54 2026] Round 5: AI (PREY): Stegosaurus moved to (9,1)
+[Oca 09 11:07:54 2026] Round 5: Player used basic move.
+[Oca 09 11:07:54 2026] Round 5: PLAYER: Predator moved from (5,7) to (4,6)
+[Oca 09 11:07:54 2026] Round 5: AI (APEX): Giganotosaurus moved to (4,6)
+[Oca 09 11:07:54 2026] Round 5: EVENT: Apex CAUGHT PLAYER at (4,6)
+[Oca 09 11:08:00 2026] Round 6: AI (PREY): Stegosaurus moved to (9,2)
+[Oca 09 11:08:00 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:08:00 2026] Round 6: PLAYER: Predator moved from (1,1) to (3,1)
+[Oca 09 11:08:00 2026] Round 6: AI (APEX): Giganotosaurus moved to (3,5)
+[Oca 09 11:08:01 2026] Round 7: AI (PREY): Stegosaurus moved to (9,3)
+[Oca 09 11:08:01 2026] Round 7: Player used basic move.
+[Oca 09 11:08:01 2026] Round 7: PLAYER: Predator moved from (3,1) to (4,2)
+[Oca 09 11:08:01 2026] Round 7: AI (APEX): Giganotosaurus moved to (4,4)
+[Oca 09 11:08:02 2026] Round 8: AI (PREY): Stegosaurus moved to (8,5)
+[Oca 09 11:08:02 2026] Round 8: Player used basic move.
+[Oca 09 11:08:02 2026] Round 8: PLAYER: Predator moved from (4,2) to (5,1)
+[Oca 09 11:08:02 2026] Round 8: AI (APEX): Giganotosaurus moved to (5,3)
+[Oca 09 11:08:03 2026] Round 9: AI (PREY): Stegosaurus moved to (9,6)
+[Oca 09 11:08:03 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:08:03 2026] Round 9: PLAYER: Predator moved from (5,1) to (7,1)
+[Oca 09 11:08:03 2026] Round 9: AI (APEX): Giganotosaurus moved to (7,1)
+[Oca 09 11:08:03 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (7,1)
+[Oca 09 11:08:40 2026] Round 10: AI (PREY): Stegosaurus moved to (8,7)
+[Oca 09 11:08:40 2026] Round 10: Player used basic move.
+[Oca 09 11:08:40 2026] Round 10: PLAYER: Predator moved from (9,5) to (8,6)
+[Oca 09 11:08:40 2026] Round 10: AI (APEX): Giganotosaurus moved to (8,2)
+[Oca 09 11:08:43 2026] Round 11: AI (PREY): Stegosaurus moved to (6,8)
+[Oca 09 11:08:43 2026] Round 11: Player used basic move.
+[Oca 09 11:08:43 2026] Round 11: PLAYER: Predator moved from (8,6) to (7,7)
+[Oca 09 11:08:43 2026] Round 11: AI (APEX): Giganotosaurus moved to (7,3)
+[Oca 09 11:08:48 2026] Round 12: AI (PREY): Stegosaurus moved to (5,9)
+[Oca 09 11:08:48 2026] Round 12: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:08:48 2026] Round 12: PLAYER: Predator moved from (7,7) to (7,9)
+[Oca 09 11:08:48 2026] Round 12: AI (APEX): Giganotosaurus moved to (7,5)
+[Oca 09 11:08:54 2026] Round 13: AI (PREY): Stegosaurus moved to (4,8)
+[Oca 09 11:08:54 2026] Round 13: Player used basic move.
+[Oca 09 11:08:54 2026] Round 13: PLAYER: Predator moved from (7,9) to (6,8)
+[Oca 09 11:08:54 2026] Round 13: AI (APEX): Giganotosaurus moved to (6,6)
+[Oca 09 11:09:02 2026] Round 14: AI (PREY): Stegosaurus moved to (3,9)
+[Oca 09 11:09:02 2026] Round 14: EVENT: Prey ATE FOOD at (3,9) | New Prey Score: 0
+[Oca 09 11:09:02 2026] Round 14: Player used basic move.
+[Oca 09 11:09:02 2026] Round 14: PLAYER: Predator moved from (6,8) to (5,9)
+[Oca 09 11:09:02 2026] Round 14: AI (APEX): Giganotosaurus moved to (5,7)
+[Oca 09 11:09:05 2026] Round 15: AI (PREY): Stegosaurus moved to (1,8)
+[Oca 09 11:09:05 2026] Round 15: Player used basic move.
+[Oca 09 11:09:05 2026] Round 15: PLAYER: Predator moved from (5,9) to (4,9)
+[Oca 09 11:09:05 2026] Round 15: AI (APEX): Giganotosaurus moved to (4,8)
+[Oca 09 11:09:06 2026] Round 16: AI (PREY): Stegosaurus moved to (0,7)
+[Oca 09 11:09:06 2026] Round 16: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:09:06 2026] Round 16: PLAYER: Predator moved from (4,9) to (2,9)
+[Oca 09 11:09:06 2026] Round 16: AI (APEX): Giganotosaurus moved to (3,9)
+[Oca 09 11:09:12 2026] Round 17: AI (PREY): Stegosaurus moved to (0,6)
+[Oca 09 11:09:12 2026] Round 17: Player used basic move.
+[Oca 09 11:09:12 2026] Round 17: PLAYER: Predator moved from (2,9) to (1,8)
+[Oca 09 11:09:12 2026] Round 17: AI (APEX): Giganotosaurus moved to (2,8)
+[Oca 09 11:09:15 2026] Round 18: AI (PREY): Stegosaurus moved to (2,5)
+[Oca 09 11:09:15 2026] Round 18: Player used basic move.
+[Oca 09 11:09:15 2026] Round 18: PLAYER: Predator moved from (1,8) to (0,7)
+[Oca 09 11:09:15 2026] Round 18: AI (APEX): Giganotosaurus moved to (1,7)
+[Oca 09 11:09:16 2026] Round 19: AI (PREY): Stegosaurus moved to (3,4)
+[Oca 09 11:09:16 2026] Round 19: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:09:16 2026] Round 19: PLAYER: Predator moved from (0,7) to (0,5)
+[Oca 09 11:09:16 2026] Round 19: AI (APEX): Giganotosaurus moved to (0,6)
+[Oca 09 11:09:17 2026] Round 20: AI (PREY): Stegosaurus moved to (4,3)
+[Oca 09 11:09:17 2026] Round 20: Player used basic move.
+[Oca 09 11:09:17 2026] Round 20: PLAYER: Predator moved from (0,5) to (1,4)
+[Oca 09 11:09:17 2026] Round 20: AI (APEX): Giganotosaurus moved to (1,5)
+[Oca 09 11:10:23 2026] Round 21: AI (PREY): Stegosaurus moved to (6,2)
+[Oca 09 11:10:23 2026] Round 21: Player used basic move.
+[Oca 09 11:10:23 2026] Round 21: PLAYER: Predator moved from (1,4) to (2,3)
+[Oca 09 11:10:23 2026] Round 21: AI (APEX): Giganotosaurus moved to (2,4)
+[Oca 09 11:10:33 2026] Round 22: AI (PREY): Stegosaurus moved to (7,1)
+[Oca 09 11:10:33 2026] Round 22: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:10:33 2026] Round 22: PLAYER: Predator moved from (2,3) to (2,1)
+[Oca 09 11:10:33 2026] Round 22: AI (APEX): Giganotosaurus moved to (2,2)
+[Oca 09 11:14:51 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 11:14:56 2026] Round 0: AI (PREY): Triceratops moved to (5,4)
+[Oca 09 11:14:56 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:14:56 2026] Round 0: PLAYER: Predator moved from (6,6) to (4,6)
+[Oca 09 11:14:56 2026] Round 0: AI (APEX): T-Rex moved to (5,5)
+[Oca 09 11:14:58 2026] Round 1: AI (PREY): Triceratops moved to (4,3)
+[Oca 09 11:14:58 2026] Round 1: Player used basic move.
+[Oca 09 11:14:58 2026] Round 1: PLAYER: Predator moved from (4,6) to (3,7)
+[Oca 09 11:14:58 2026] Round 1: AI (APEX): T-Rex moved to (4,4)
+[Oca 09 11:15:01 2026] Round 2: AI (PREY): Triceratops moved to (5,5)
+[Oca 09 11:15:01 2026] Round 2: PLAYER: Predator moved from (3,7) to (3,7)
+[Oca 09 11:15:01 2026] Round 2: AI (APEX): T-Rex moved to (5,5)
+[Oca 09 11:15:01 2026] Round 2: EVENT: Apex CAUGHT Prey at (5,5)
+[Oca 09 11:15:03 2026] Round 3: AI (PREY): Triceratops moved to (8,9)
+[Oca 09 11:15:03 2026] Round 3: PLAYER: Predator moved from (3,7) to (3,7)
+[Oca 09 11:15:03 2026] Round 3: AI (APEX): T-Rex moved to (3,7)
+[Oca 09 11:15:03 2026] Round 3: EVENT: Apex CAUGHT PLAYER at (3,7)
+[Oca 09 11:15:10 2026] Round 4: AI (PREY): Triceratops moved to (9,9)
+[Oca 09 11:15:10 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:15:10 2026] Round 4: PLAYER: Predator moved from (8,2) to (8,4)
+[Oca 09 11:15:10 2026] Round 4: AI (APEX): T-Rex moved to (4,8)
+[Oca 09 11:15:12 2026] Round 5: AI (PREY): Triceratops moved to (8,9)
+[Oca 09 11:15:12 2026] Round 5: Player used basic move.
+[Oca 09 11:15:12 2026] Round 5: PLAYER: Predator moved from (8,4) to (8,5)
+[Oca 09 11:15:12 2026] Round 5: AI (APEX): T-Rex moved to (5,9)
+[Oca 09 11:15:12 2026] Round 6: AI (PREY): Triceratops moved to (9,9)
+[Oca 09 11:15:12 2026] Round 6: Player used basic move.
+[Oca 09 11:15:12 2026] Round 6: PLAYER: Predator moved from (8,5) to (8,4)
+[Oca 09 11:15:12 2026] Round 6: AI (APEX): T-Rex moved to (7,9)
+[Oca 09 11:15:12 2026] Round 7: AI (PREY): Triceratops moved to (9,8)
+[Oca 09 11:15:12 2026] Round 7: PLAYER: Predator moved from (8,4) to (8,4)
+[Oca 09 11:15:12 2026] Round 7: AI (APEX): T-Rex moved to (8,8)
+[Oca 09 11:15:12 2026] Round 8: AI (PREY): Triceratops moved to (7,9)
+[Oca 09 11:15:12 2026] Round 8: Player used basic move.
+[Oca 09 11:15:12 2026] Round 8: PLAYER: Predator moved from (8,4) to (8,3)
+[Oca 09 11:15:12 2026] Round 8: AI (APEX): T-Rex moved to (7,9)
+[Oca 09 11:15:12 2026] Round 8: EVENT: Apex CAUGHT Prey at (7,9)
+[Oca 09 11:15:13 2026] Round 9: AI (PREY): Triceratops moved to (5,6)
+[Oca 09 11:15:13 2026] Round 9: Player used basic move.
+[Oca 09 11:15:13 2026] Round 9: PLAYER: Predator moved from (8,3) to (7,3)
+[Oca 09 11:15:13 2026] Round 9: AI (APEX): T-Rex moved to (5,7)
+[Oca 09 11:15:13 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -1
+[Oca 09 11:15:25 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 11:15:28 2026] Round 0: AI (PREY): Stegosaurus moved to (5,0)
+[Oca 09 11:15:28 2026] Round 0: PLAYER: Predator moved from (2,8) to (2,8)
+[Oca 09 11:15:28 2026] Round 0: AI (APEX): Giganotosaurus moved to (3,8)
+[Oca 09 11:15:28 2026] Round 1: AI (PREY): Stegosaurus moved to (6,0)
+[Oca 09 11:15:28 2026] Round 1: PLAYER: Predator moved from (2,8) to (2,8)
+[Oca 09 11:15:28 2026] Round 1: AI (APEX): Giganotosaurus moved to (2,8)
+[Oca 09 11:15:28 2026] Round 1: EVENT: Apex CAUGHT PLAYER at (2,8)
+[Oca 09 11:15:29 2026] Round 2: AI (PREY): Stegosaurus moved to (7,2)
+[Oca 09 11:15:29 2026] Round 2: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:29 2026] Round 2: AI (APEX): Giganotosaurus moved to (3,7)
+[Oca 09 11:15:30 2026] Round 3: AI (PREY): Stegosaurus moved to (8,3)
+[Oca 09 11:15:30 2026] Round 3: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:30 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,5)
+[Oca 09 11:15:30 2026] Round 4: AI (PREY): Stegosaurus moved to (9,2)
+[Oca 09 11:15:30 2026] Round 4: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:30 2026] Round 4: AI (APEX): Giganotosaurus moved to (4,4)
+[Oca 09 11:15:30 2026] Round 5: AI (PREY): Stegosaurus moved to (9,3)
+[Oca 09 11:15:30 2026] Round 5: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:30 2026] Round 5: AI (APEX): Giganotosaurus moved to (3,3)
+[Oca 09 11:15:30 2026] Round 6: AI (PREY): Stegosaurus moved to (9,4)
+[Oca 09 11:15:30 2026] Round 6: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:30 2026] Round 6: AI (APEX): Giganotosaurus moved to (3,1)
+[Oca 09 11:15:30 2026] Round 7: AI (PREY): Stegosaurus moved to (9,5)
+[Oca 09 11:15:30 2026] Round 7: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 09 11:15:30 2026] Round 7: AI (APEX): Giganotosaurus moved to (3,0)
+[Oca 09 11:15:30 2026] Round 7: EVENT: Apex CAUGHT PLAYER at (3,0)
+[Oca 09 11:15:31 2026] Round 8: AI (PREY): Stegosaurus moved to (9,6)
+[Oca 09 11:15:31 2026] Round 8: EVENT: Prey ATE FOOD at (9,6) | New Prey Score: 0
+[Oca 09 11:15:31 2026] Round 8: Player used basic move.
+[Oca 09 11:15:31 2026] Round 8: PLAYER: Predator moved from (4,1) to (4,2)
+[Oca 09 11:15:31 2026] Round 8: AI (APEX): Giganotosaurus moved to (4,1)
+[Oca 09 11:15:31 2026] Round 9: AI (PREY): Stegosaurus moved to (9,7)
+[Oca 09 11:15:31 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 11:15:31 2026] Round 9: PLAYER: Predator moved from (4,2) to (4,4)
+[Oca 09 11:15:31 2026] Round 9: AI (APEX): Giganotosaurus moved to (4,3)
+[Oca 09 11:15:31 2026] GAME OVER: PREY WINS! Final Score: -2
+[Oca 09 13:09:04 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 09 13:09:18 2026] Round 0: AI (PREY): Robot moved to (0,3)
+[Oca 09 13:09:18 2026] Round 0: PLAYER: Predator moved from (8,2) to (8,2)
+[Oca 09 13:09:18 2026] Round 0: AI (APEX): Leviathan moved to (0,6)
+[Oca 09 13:09:19 2026] Round 1: AI (PREY): Robot moved to (1,2)
+[Oca 09 13:09:19 2026] Round 1: Player used basic move.
+[Oca 09 13:09:19 2026] Round 1: PLAYER: Predator moved from (8,2) to (7,2)
+[Oca 09 13:09:19 2026] Round 1: AI (APEX): Leviathan moved to (1,5)
+[Oca 09 13:09:20 2026] Round 2: AI (PREY): Robot moved to (3,0)
+[Oca 09 13:09:20 2026] Round 2: PLAYER: Predator moved from (7,2) to (7,2)
+[Oca 09 13:09:20 2026] Round 2: AI (APEX): Leviathan moved to (2,4)
+[Oca 09 13:09:21 2026] Round 3: AI (PREY): Robot moved to (4,0)
+[Oca 09 13:09:21 2026] Round 3: Player used basic move.
+[Oca 09 13:09:21 2026] Round 3: PLAYER: Predator moved from (7,2) to (7,3)
+[Oca 09 13:09:21 2026] Round 3: AI (APEX): Leviathan moved to (3,3)
+[Oca 09 13:09:22 2026] Round 4: AI (PREY): Robot moved to (5,0)
+[Oca 09 13:09:22 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 09 13:09:22 2026] Round 4: PLAYER: Predator moved from (7,3) to (5,5)
+[Oca 09 13:09:22 2026] Round 4: AI (APEX): Leviathan moved to (5,5)
+[Oca 09 13:09:22 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (5,5)
+[Oca 09 14:00:45 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 14:00:59 2026] Round 0: AI (PREY): Triceratops moved to (0,8)
+[Oca 09 14:00:59 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:00:59 2026] Round 0: PLAYER: Predator moved from (6,5) to (4,5)
+[Oca 09 14:00:59 2026] Round 0: AI (APEX): T-Rex moved to (7,7)
+[Oca 09 14:01:00 2026] Round 1: AI (PREY): Triceratops moved to (0,9)
+[Oca 09 14:01:00 2026] Round 1: Player used basic move.
+[Oca 09 14:01:00 2026] Round 1: PLAYER: Predator moved from (4,5) to (3,6)
+[Oca 09 14:01:00 2026] Round 1: AI (APEX): T-Rex moved to (6,6)
+[Oca 09 14:01:01 2026] Round 2: AI (PREY): Triceratops moved to (1,9)
+[Oca 09 14:01:01 2026] Round 2: Player used basic move.
+[Oca 09 14:01:01 2026] Round 2: PLAYER: Predator moved from (3,6) to (2,7)
+[Oca 09 14:01:01 2026] Round 2: AI (APEX): T-Rex moved to (5,7)
+[Oca 09 14:01:01 2026] Round 3: AI (PREY): Triceratops moved to (0,9)
+[Oca 09 14:01:01 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:01 2026] Round 3: PLAYER: Predator moved from (2,7) to (2,9)
+[Oca 09 14:01:01 2026] Round 3: AI (APEX): T-Rex moved to (3,9)
+[Oca 09 14:01:02 2026] Round 4: AI (PREY): Triceratops moved to (1,7)
+[Oca 09 14:01:02 2026] Round 4: Player used basic move.
+[Oca 09 14:01:02 2026] Round 4: PLAYER: Predator moved from (2,9) to (1,9)
+[Oca 09 14:01:02 2026] Round 4: AI (APEX): T-Rex moved to (2,9)
+[Oca 09 14:01:03 2026] Round 5: AI (PREY): Triceratops moved to (0,6)
+[Oca 09 14:01:03 2026] Round 5: Player used basic move.
+[Oca 09 14:01:03 2026] Round 5: PLAYER: Predator moved from (1,9) to (1,8)
+[Oca 09 14:01:03 2026] Round 5: AI (APEX): T-Rex moved to (1,8)
+[Oca 09 14:01:03 2026] Round 5: EVENT: Apex CAUGHT PLAYER at (1,8)
+[Oca 09 14:01:05 2026] Round 6: AI (PREY): Triceratops moved to (0,5)
+[Oca 09 14:01:05 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:05 2026] Round 6: PLAYER: Predator moved from (1,7) to (1,5)
+[Oca 09 14:01:05 2026] Round 6: AI (APEX): T-Rex moved to (1,6)
+[Oca 09 14:01:14 2026] Round 7: AI (PREY): Triceratops moved to (1,3)
+[Oca 09 14:01:14 2026] Round 7: EVENT: Prey ATE FOOD at (1,3) | New Prey Score: 0
+[Oca 09 14:01:14 2026] Round 7: Player used basic move.
+[Oca 09 14:01:14 2026] Round 7: PLAYER: Predator moved from (1,5) to (1,4)
+[Oca 09 14:01:14 2026] Round 7: AI (APEX): T-Rex moved to (1,5)
+[Oca 09 14:01:16 2026] Round 8: AI (PREY): Triceratops moved to (2,2)
+[Oca 09 14:01:16 2026] Round 8: Player used basic move.
+[Oca 09 14:01:16 2026] Round 8: PLAYER: Predator moved from (1,4) to (2,3)
+[Oca 09 14:01:16 2026] Round 8: AI (APEX): T-Rex moved to (2,4)
+[Oca 09 14:01:19 2026] Round 9: AI (PREY): Triceratops moved to (3,1)
+[Oca 09 14:01:19 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:19 2026] Round 9: PLAYER: Predator moved from (2,3) to (2,1)
+[Oca 09 14:01:19 2026] Round 9: AI (APEX): T-Rex moved to (2,2)
+[Oca 09 14:01:19 2026] GAME OVER: PREY WINS! Final Score: -1
+[Oca 09 14:01:23 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 14:01:28 2026] Round 0: AI (PREY): Triceratops moved to (8,1)
+[Oca 09 14:01:28 2026] Round 0: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 09 14:01:28 2026] Round 0: AI (PREY): Triceratops moved to (9,0)
+[Oca 09 14:01:28 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:28 2026] Round 0: PLAYER: Predator moved from (2,9) to (2,7)
+[Oca 09 14:01:28 2026] Round 0: AI (APEX): T-Rex moved to (3,7)
+[Oca 09 14:01:30 2026] Round 1: AI (PREY): Triceratops moved to (8,0)
+[Oca 09 14:01:30 2026] Round 1: Player used basic move.
+[Oca 09 14:01:30 2026] Round 1: PLAYER: Predator moved from (2,7) to (1,6)
+[Oca 09 14:01:30 2026] Round 1: AI (APEX): T-Rex moved to (2,6)
+[Oca 09 14:01:31 2026] Round 2: AI (PREY): Triceratops moved to (9,0)
+[Oca 09 14:01:31 2026] Round 2: Player used basic move.
+[Oca 09 14:01:31 2026] Round 2: PLAYER: Predator moved from (1,6) to (0,5)
+[Oca 09 14:01:31 2026] Round 2: AI (APEX): T-Rex moved to (1,5)
+[Oca 09 14:01:32 2026] Round 3: AI (PREY): Triceratops moved to (8,0)
+[Oca 09 14:01:32 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:32 2026] Round 3: PLAYER: Predator moved from (0,5) to (0,3)
+[Oca 09 14:01:32 2026] Round 3: AI (APEX): T-Rex moved to (0,4)
+[Oca 09 14:01:33 2026] Round 4: AI (PREY): Triceratops moved to (9,0)
+[Oca 09 14:01:33 2026] Round 4: Player used basic move.
+[Oca 09 14:01:33 2026] Round 4: PLAYER: Predator moved from (0,3) to (1,2)
+[Oca 09 14:01:33 2026] Round 4: AI (APEX): T-Rex moved to (1,3)
+[Oca 09 14:01:34 2026] Round 5: AI (PREY): Triceratops moved to (8,0)
+[Oca 09 14:01:34 2026] Round 5: Player used basic move.
+[Oca 09 14:01:34 2026] Round 5: PLAYER: Predator moved from (1,2) to (2,1)
+[Oca 09 14:01:34 2026] Round 5: AI (APEX): T-Rex moved to (2,2)
+[Oca 09 14:01:35 2026] Round 6: AI (PREY): Triceratops moved to (9,2)
+[Oca 09 14:01:35 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:35 2026] Round 6: PLAYER: Predator moved from (2,1) to (4,1)
+[Oca 09 14:01:35 2026] Round 6: AI (APEX): T-Rex moved to (3,1)
+[Oca 09 14:01:36 2026] Round 7: AI (PREY): Triceratops moved to (9,3)
+[Oca 09 14:01:36 2026] Round 7: Player used basic move.
+[Oca 09 14:01:36 2026] Round 7: PLAYER: Predator moved from (4,1) to (5,2)
+[Oca 09 14:01:36 2026] Round 7: AI (APEX): T-Rex moved to (4,2)
+[Oca 09 14:01:37 2026] Round 8: AI (PREY): Triceratops moved to (9,4)
+[Oca 09 14:01:37 2026] Round 8: Player used basic move.
+[Oca 09 14:01:37 2026] Round 8: PLAYER: Predator moved from (5,2) to (6,3)
+[Oca 09 14:01:37 2026] Round 8: AI (APEX): T-Rex moved to (5,3)
+[Oca 09 14:01:40 2026] Round 9: AI (PREY): Triceratops moved to (7,5)
+[Oca 09 14:01:40 2026] Round 9: EVENT: Prey ATE FOOD at (7,5) | New Prey Score: 0
+[Oca 09 14:01:40 2026] Round 9: Player used basic move.
+[Oca 09 14:01:40 2026] Round 9: PLAYER: Predator moved from (6,3) to (7,4)
+[Oca 09 14:01:40 2026] Round 9: AI (APEX): T-Rex moved to (7,5)
+[Oca 09 14:01:40 2026] Round 9: EVENT: Apex CAUGHT Prey at (7,5)
+[Oca 09 14:01:40 2026] GAME OVER: PREY WINS! Final Score: 0
+[Oca 09 14:01:44 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 14:01:51 2026] Round 0: AI (PREY): Stegosaurus moved to (3,1)
+[Oca 09 14:01:51 2026] Round 0: Player used basic move.
+[Oca 09 14:01:51 2026] Round 0: PLAYER: Predator moved from (0,8) to (1,9)
+[Oca 09 14:01:51 2026] Round 0: AI (APEX): Giganotosaurus moved to (6,2)
+[Oca 09 14:01:52 2026] Round 1: AI (PREY): Stegosaurus moved to (2,0)
+[Oca 09 14:01:52 2026] Round 1: Player used basic move.
+[Oca 09 14:01:52 2026] Round 1: PLAYER: Predator moved from (1,9) to (0,8)
+[Oca 09 14:01:52 2026] Round 1: AI (APEX): Giganotosaurus moved to (5,1)
+[Oca 09 14:01:54 2026] Round 2: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 09 14:01:54 2026] Round 2: Player used basic move.
+[Oca 09 14:01:54 2026] Round 2: PLAYER: Predator moved from (0,8) to (1,9)
+[Oca 09 14:01:54 2026] Round 2: AI (APEX): Giganotosaurus moved to (4,1)
+[Oca 09 14:01:56 2026] Round 3: AI (PREY): Stegosaurus moved to (0,2)
+[Oca 09 14:01:56 2026] Round 3: PLAYER: Predator moved from (1,9) to (1,9)
+[Oca 09 14:01:56 2026] Round 3: AI (APEX): Giganotosaurus moved to (3,2)
+[Oca 09 14:01:56 2026] Round 4: AI (PREY): Stegosaurus moved to (0,3)
+[Oca 09 14:01:56 2026] Round 4: PLAYER: Predator moved from (1,9) to (1,9)
+[Oca 09 14:01:56 2026] Round 4: AI (APEX): Giganotosaurus moved to (2,3)
+[Oca 09 14:01:57 2026] Round 5: AI (PREY): Stegosaurus moved to (0,4)
+[Oca 09 14:01:57 2026] Round 5: PLAYER: Predator moved from (1,9) to (1,9)
+[Oca 09 14:01:57 2026] Round 5: AI (APEX): Giganotosaurus moved to (1,4)
+[Oca 09 14:01:57 2026] Round 6: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 09 14:01:57 2026] Round 6: PLAYER: Predator moved from (1,9) to (1,9)
+[Oca 09 14:01:57 2026] Round 6: AI (APEX): Giganotosaurus moved to (0,5)
+[Oca 09 14:01:57 2026] Round 6: EVENT: Apex CAUGHT Prey at (0,5)
+[Oca 09 14:01:59 2026] Round 7: AI (PREY): Stegosaurus moved to (5,0)
+[Oca 09 14:01:59 2026] Round 7: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:01:59 2026] Round 7: PLAYER: Predator moved from (1,9) to (3,9)
+[Oca 09 14:01:59 2026] Round 7: AI (APEX): Giganotosaurus moved to (2,7)
+[Oca 09 14:02:00 2026] Round 8: AI (PREY): Stegosaurus moved to (6,0)
+[Oca 09 14:02:00 2026] Round 8: Player used basic move.
+[Oca 09 14:02:00 2026] Round 8: PLAYER: Predator moved from (3,9) to (4,9)
+[Oca 09 14:02:00 2026] Round 8: AI (APEX): Giganotosaurus moved to (3,8)
+[Oca 09 14:02:01 2026] Round 9: AI (PREY): Stegosaurus moved to (7,0)
+[Oca 09 14:02:01 2026] Round 9: Player used basic move.
+[Oca 09 14:02:01 2026] Round 9: PLAYER: Predator moved from (4,9) to (5,9)
+[Oca 09 14:02:01 2026] Round 9: AI (APEX): Giganotosaurus moved to (4,9)
+[Oca 09 14:02:01 2026] GAME OVER: APEX PREDATOR WINS! Final Score: 0
+[Oca 09 14:02:04 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 14:02:09 2026] Round 0: AI (PREY): Triceratops moved to (5,7)
+[Oca 09 14:02:09 2026] Round 0: Player used basic move.
+[Oca 09 14:02:09 2026] Round 0: PLAYER: Predator moved from (9,1) to (8,0)
+[Oca 09 14:02:09 2026] Round 0: AI (APEX): T-Rex moved to (6,6)
+[Oca 09 14:02:12 2026] Round 1: AI (PREY): Triceratops moved to (4,8)
+[Oca 09 14:02:12 2026] Round 1: PLAYER: Predator moved from (8,0) to (8,0)
+[Oca 09 14:02:12 2026] Round 1: AI (APEX): T-Rex moved to (5,7)
+[Oca 09 14:02:13 2026] Round 2: AI (PREY): Triceratops moved to (2,9)
+[Oca 09 14:02:13 2026] Round 2: PLAYER: Predator moved from (8,0) to (8,0)
+[Oca 09 14:02:13 2026] Round 2: AI (APEX): T-Rex moved to (4,8)
+[Oca 09 14:02:15 2026] Round 3: AI (PREY): Triceratops moved to (1,8)
+[Oca 09 14:02:15 2026] Round 3: EVENT: Prey ATE FOOD at (1,8) | New Prey Score: 0
+[Oca 09 14:02:15 2026] Round 3: Player used basic move.
+[Oca 09 14:02:15 2026] Round 3: PLAYER: Predator moved from (8,0) to (7,1)
+[Oca 09 14:02:15 2026] Round 3: AI (APEX): T-Rex moved to (2,8)
+[Oca 09 14:02:17 2026] Round 4: AI (PREY): Triceratops moved to (1,9)
+[Oca 09 14:02:17 2026] Round 4: EVENT: Prey ATE FOOD at (1,9) | New Prey Score: 3
+[Oca 09 14:02:17 2026] Round 4: Player used basic move.
+[Oca 09 14:02:17 2026] Round 4: PLAYER: Predator moved from (7,1) to (6,2)
+[Oca 09 14:02:17 2026] Round 4: AI (APEX): T-Rex moved to (1,9)
+[Oca 09 14:02:17 2026] Round 4: EVENT: Apex CAUGHT Prey at (1,9)
+[Oca 09 14:02:23 2026] Round 5: AI (PREY): Triceratops moved to (9,6)
+[Oca 09 14:02:23 2026] Round 5: Player used basic move.
+[Oca 09 14:02:23 2026] Round 5: PLAYER: Predator moved from (6,2) to (7,3)
+[Oca 09 14:02:23 2026] Round 5: AI (APEX): T-Rex moved to (2,8)
+[Oca 09 14:02:26 2026] Round 6: AI (PREY): Triceratops moved to (9,7)
+[Oca 09 14:02:26 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:26 2026] Round 6: PLAYER: Predator moved from (7,3) to (7,5)
+[Oca 09 14:02:26 2026] Round 6: AI (APEX): T-Rex moved to (4,6)
+[Oca 09 14:02:27 2026] Round 7: AI (PREY): Triceratops moved to (9,8)
+[Oca 09 14:02:27 2026] Round 7: Player used basic move.
+[Oca 09 14:02:27 2026] Round 7: PLAYER: Predator moved from (7,5) to (8,6)
+[Oca 09 14:02:27 2026] Round 7: AI (APEX): T-Rex moved to (5,6)
+[Oca 09 14:02:29 2026] Round 8: AI (PREY): Triceratops moved to (7,9)
+[Oca 09 14:02:29 2026] Round 8: Player used basic move.
+[Oca 09 14:02:29 2026] Round 8: PLAYER: Predator moved from (8,6) to (8,7)
+[Oca 09 14:02:29 2026] Round 8: AI (APEX): T-Rex moved to (6,7)
+[Oca 09 14:02:31 2026] Round 9: AI (PREY): Triceratops moved to (6,9)
+[Oca 09 14:02:31 2026] Round 9: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 09 14:02:36 2026] Round 9: AI (PREY): Triceratops moved to (5,9)
+[Oca 09 14:02:36 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:36 2026] Round 9: PLAYER: Predator moved from (8,7) to (8,9)
+[Oca 09 14:02:36 2026] Round 9: AI (APEX): T-Rex moved to (8,9)
+[Oca 09 14:02:36 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (8,9)
+[Oca 09 14:02:36 2026] GAME OVER: PREY WINS! Final Score: -1
+[Oca 09 14:02:39 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 14:02:45 2026] Round 0: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 09 14:02:45 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:45 2026] Round 0: PLAYER: Predator moved from (9,3) to (9,1)
+[Oca 09 14:02:45 2026] Round 0: AI (APEX): Giganotosaurus moved to (9,6)
+[Oca 09 14:02:46 2026] Round 1: AI (PREY): Stegosaurus moved to (0,4)
+[Oca 09 14:02:46 2026] Round 1: Player used basic move.
+[Oca 09 14:02:46 2026] Round 1: PLAYER: Predator moved from (9,1) to (8,1)
+[Oca 09 14:02:46 2026] Round 1: AI (APEX): Giganotosaurus moved to (8,5)
+[Oca 09 14:02:47 2026] Round 2: AI (PREY): Stegosaurus moved to (0,3)
+[Oca 09 14:02:47 2026] Round 2: Player used basic move.
+[Oca 09 14:02:47 2026] Round 2: PLAYER: Predator moved from (8,1) to (7,1)
+[Oca 09 14:02:47 2026] Round 2: AI (APEX): Giganotosaurus moved to (7,4)
+[Oca 09 14:02:48 2026] Round 3: AI (PREY): Stegosaurus moved to (0,4)
+[Oca 09 14:02:48 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:48 2026] Round 3: PLAYER: Predator moved from (7,1) to (5,1)
+[Oca 09 14:02:48 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,2)
+[Oca 09 14:02:50 2026] Round 4: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 09 14:02:50 2026] Round 4: Player used basic move.
+[Oca 09 14:02:50 2026] Round 4: PLAYER: Predator moved from (5,1) to (4,0)
+[Oca 09 14:02:50 2026] Round 4: AI (APEX): Giganotosaurus moved to (4,1)
+[Oca 09 14:02:51 2026] Round 5: AI (PREY): Stegosaurus moved to (0,6)
+[Oca 09 14:02:51 2026] Round 5: Player used basic move.
+[Oca 09 14:02:51 2026] Round 5: PLAYER: Predator moved from (4,0) to (3,0)
+[Oca 09 14:02:51 2026] Round 5: AI (APEX): Giganotosaurus moved to (3,0)
+[Oca 09 14:02:51 2026] Round 5: EVENT: Apex CAUGHT PLAYER at (3,0)
+[Oca 09 14:02:52 2026] Round 6: AI (PREY): Stegosaurus moved to (0,7)
+[Oca 09 14:02:52 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:52 2026] Round 6: PLAYER: Predator moved from (9,0) to (9,2)
+[Oca 09 14:02:52 2026] Round 6: AI (APEX): Giganotosaurus moved to (5,2)
+[Oca 09 14:02:53 2026] Round 7: AI (PREY): Stegosaurus moved to (0,8)
+[Oca 09 14:02:53 2026] Round 7: Player used basic move.
+[Oca 09 14:02:53 2026] Round 7: PLAYER: Predator moved from (9,2) to (9,3)
+[Oca 09 14:02:53 2026] Round 7: AI (APEX): Giganotosaurus moved to (6,3)
+[Oca 09 14:02:53 2026] Round 8: AI (PREY): Stegosaurus moved to (0,9)
+[Oca 09 14:02:53 2026] Round 8: EVENT: Prey ATE FOOD at (0,9) | New Prey Score: 0
+[Oca 09 14:02:53 2026] Round 8: Player used basic move.
+[Oca 09 14:02:53 2026] Round 8: PLAYER: Predator moved from (9,3) to (9,4)
+[Oca 09 14:02:53 2026] Round 8: AI (APEX): Giganotosaurus moved to (7,4)
+[Oca 09 14:02:54 2026] Round 9: AI (PREY): Stegosaurus moved to (1,9)
+[Oca 09 14:02:54 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 09 14:02:54 2026] Round 9: PLAYER: Predator moved from (9,4) to (9,6)
+[Oca 09 14:02:54 2026] Round 9: AI (APEX): Giganotosaurus moved to (9,6)
+[Oca 09 14:02:54 2026] Round 9: EVENT: Apex CAUGHT PLAYER at (9,6)
+[Oca 09 14:02:54 2026] GAME OVER: PREY WINS! Final Score: -2
+[Oca 09 14:02:57 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 09 18:19:52 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 09 18:20:02 2026] Round 0: AI (PREY): Robot moved to (4,1)
+[Oca 09 18:20:02 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 09 18:20:02 2026] Round 0: PLAYER: Predator moved from (0,3) to (2,3)
+[Oca 09 18:20:02 2026] Round 0: AI (APEX): Leviathan moved to (5,4)
+[Oca 09 18:20:03 2026] Round 1: AI (PREY): Robot moved to (4,0)
+[Oca 09 18:20:03 2026] Round 1: Player used basic move.
+[Oca 09 18:20:03 2026] Round 1: PLAYER: Predator moved from (2,3) to (3,2)
+[Oca 09 18:20:03 2026] Round 1: AI (APEX): Leviathan moved to (4,3)
+[Oca 09 18:20:06 2026] Round 2: AI (PREY): Robot moved to (7,0)
+[Oca 09 18:20:06 2026] Round 2: Player used basic move.
+[Oca 09 18:20:06 2026] Round 2: PLAYER: Predator moved from (3,2) to (3,1)
+[Oca 09 18:20:06 2026] Round 2: AI (APEX): Leviathan moved to (3,2)
+[Oca 09 18:20:07 2026] Round 3: AI (PREY): Robot moved to (8,0)
+[Oca 09 18:20:07 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 09 18:20:07 2026] Round 3: PLAYER: Predator moved from (3,1) to (5,1)
+[Oca 09 18:20:07 2026] Round 3: AI (APEX): Leviathan moved to (4,1)
+[Oca 09 18:20:09 2026] Round 4: AI (PREY): Robot moved to (9,0)
+[Oca 09 18:20:09 2026] Round 4: Player used basic move.
+[Oca 09 18:20:09 2026] Round 4: PLAYER: Predator moved from (5,1) to (6,2)
+[Oca 09 18:20:09 2026] Round 4: AI (APEX): Leviathan moved to (6,2)
+[Oca 09 18:20:09 2026] Round 4: EVENT: Apex CAUGHT PLAYER at (6,2)
+[Oca 09 18:20:10 2026] Round 5: AI (PREY): Robot moved to (9,1)
+[Oca 09 18:20:10 2026] Round 5: Player used basic move.
+[Oca 09 18:20:10 2026] Round 5: PLAYER: Predator moved from (0,3) to (0,4)
+[Oca 09 18:20:10 2026] Round 5: AI (APEX): Leviathan moved to (7,1)
+[Oca 09 18:20:11 2026] Round 6: AI (PREY): Robot moved to (9,2)
+[Oca 09 18:20:11 2026] Round 6: PLAYER: Predator moved from (0,4) to (0,4)
+[Oca 09 18:20:11 2026] Round 6: AI (APEX): Leviathan moved to (8,2)
+[Oca 09 18:20:12 2026] Round 7: AI (PREY): Robot moved to (9,3)
+[Oca 09 18:20:12 2026] Round 7: PLAYER: Predator moved from (0,4) to (0,4)
+[Oca 09 18:20:12 2026] Round 7: AI (APEX): Leviathan moved to (9,3)
+[Oca 09 18:20:12 2026] Round 7: EVENT: Apex CAUGHT Prey at (9,3)
+[Oca 09 18:20:12 2026] Round 8: AI (PREY): Robot moved to (4,0)
+[Oca 09 18:20:12 2026] Round 8: PLAYER: Predator moved from (0,4) to (0,4)
+[Oca 09 18:20:12 2026] Round 8: AI (APEX): Leviathan moved to (6,0)
+[Oca 09 18:20:13 2026] Round 9: AI (PREY): Robot moved to (3,1)
+[Oca 09 18:20:13 2026] Round 9: PLAYER: Predator moved from (0,4) to (0,4)
+[Oca 09 18:20:13 2026] Round 9: AI (APEX): Leviathan moved to (5,1)
+[Oca 09 18:20:13 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -1
+[Oca 09 18:20:15 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 10 01:16:33 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 10 01:16:39 2026] Round 0: AI (PREY): Stegosaurus moved to (7,2)
+[Oca 10 01:16:39 2026] Round 0: Player used basic move.
+[Oca 10 01:16:39 2026] Round 0: PLAYER: Predator moved from (6,7) to (5,7)
+[Oca 10 01:16:39 2026] Round 0: AI (APEX): Giganotosaurus moved to (7,2)
+[Oca 10 01:16:39 2026] Round 0: EVENT: Apex CAUGHT Prey at (7,2)
+[Oca 10 01:16:42 2026] Round 1: AI (PREY): Stegosaurus moved to (9,9)
+[Oca 10 01:16:42 2026] Round 1: Player used basic move.
+[Oca 10 01:16:42 2026] Round 1: PLAYER: Predator moved from (5,7) to (6,7)
+[Oca 10 01:16:42 2026] Round 1: AI (APEX): Giganotosaurus moved to (6,3)
+[Oca 10 01:16:43 2026] Round 2: AI (PREY): Stegosaurus moved to (9,8)
+[Oca 10 01:16:43 2026] Round 2: Player used basic move.
+[Oca 10 01:16:43 2026] Round 2: PLAYER: Predator moved from (6,7) to (6,8)
+[Oca 10 01:16:43 2026] Round 2: AI (APEX): Giganotosaurus moved to (6,4)
+[Oca 10 01:16:45 2026] Round 3: AI (PREY): Stegosaurus moved to (8,6)
+[Oca 10 01:16:45 2026] Round 3: Player used basic move.
+[Oca 10 01:16:45 2026] Round 3: PLAYER: Predator moved from (6,8) to (6,9)
+[Oca 10 01:16:45 2026] Round 3: AI (APEX): Giganotosaurus moved to (8,6)
+[Oca 10 01:16:45 2026] Round 3: EVENT: Apex CAUGHT Prey at (8,6)
+[Oca 10 01:16:49 2026] Round 4: AI (PREY): Stegosaurus moved to (0,2)
+[Oca 10 01:16:49 2026] Round 4: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:16:49 2026] Round 4: PLAYER: Predator moved from (6,9) to (4,9)
+[Oca 10 01:16:49 2026] Round 4: AI (APEX): Giganotosaurus moved to (7,7)
+[Oca 10 01:16:50 2026] Round 5: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 10 01:16:50 2026] Round 5: Player used basic move.
+[Oca 10 01:16:50 2026] Round 5: PLAYER: Predator moved from (4,9) to (3,8)
+[Oca 10 01:16:50 2026] Round 5: AI (APEX): Giganotosaurus moved to (6,8)
+[Oca 10 01:16:52 2026] Round 6: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 10 01:16:52 2026] Round 6: Player used basic move.
+[Oca 10 01:16:52 2026] Round 6: PLAYER: Predator moved from (3,8) to (2,7)
+[Oca 10 01:16:52 2026] Round 6: AI (APEX): Giganotosaurus moved to (5,7)
+[Oca 10 01:17:01 2026] Round 7: AI (PREY): Stegosaurus moved to (1,0)
+[Oca 10 01:17:01 2026] Round 7: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:01 2026] Round 7: PLAYER: Predator moved from (2,7) to (2,5)
+[Oca 10 01:17:01 2026] Round 7: AI (APEX): Giganotosaurus moved to (3,5)
+[Oca 10 01:17:02 2026] Round 8: AI (PREY): Stegosaurus moved to (3,1)
+[Oca 10 01:17:02 2026] Round 8: Player used basic move.
+[Oca 10 01:17:02 2026] Round 8: PLAYER: Predator moved from (2,5) to (1,4)
+[Oca 10 01:17:02 2026] Round 8: AI (APEX): Giganotosaurus moved to (2,4)
+[Oca 10 01:17:03 2026] Round 9: AI (PREY): Stegosaurus moved to (4,0)
+[Oca 10 01:17:03 2026] Round 9: Player used basic move.
+[Oca 10 01:17:03 2026] Round 9: PLAYER: Predator moved from (1,4) to (0,3)
+[Oca 10 01:17:03 2026] Round 9: AI (APEX): Giganotosaurus moved to (1,3)
+[Oca 10 01:17:03 2026] GAME OVER: APEX PREDATOR WINS! Final Score: 0
+[Oca 10 01:17:07 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 10 01:17:11 2026] Round 0: AI (PREY): Stegosaurus moved to (9,1)
+[Oca 10 01:17:11 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:11 2026] Round 0: PLAYER: Predator moved from (3,6) to (3,4)
+[Oca 10 01:17:11 2026] Round 0: AI (APEX): Giganotosaurus moved to (3,7)
+[Oca 10 01:17:13 2026] Round 1: AI (PREY): Stegosaurus moved to (9,0)
+[Oca 10 01:17:13 2026] Round 1: Player used basic move.
+[Oca 10 01:17:13 2026] Round 1: PLAYER: Predator moved from (3,4) to (4,3)
+[Oca 10 01:17:13 2026] Round 1: AI (APEX): Giganotosaurus moved to (4,6)
+[Oca 10 01:17:14 2026] Round 2: AI (PREY): Stegosaurus moved to (9,1)
+[Oca 10 01:17:14 2026] Round 2: Player used basic move.
+[Oca 10 01:17:14 2026] Round 2: PLAYER: Predator moved from (4,3) to (5,2)
+[Oca 10 01:17:14 2026] Round 2: AI (APEX): Giganotosaurus moved to (5,5)
+[Oca 10 01:17:16 2026] Round 3: AI (PREY): Stegosaurus moved to (8,3)
+[Oca 10 01:17:16 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:16 2026] Round 3: PLAYER: Predator moved from (5,2) to (5,0)
+[Oca 10 01:17:16 2026] Round 3: AI (APEX): Giganotosaurus moved to (7,3)
+[Oca 10 01:17:19 2026] Round 4: AI (PREY): Stegosaurus moved to (9,4)
+[Oca 10 01:17:19 2026] Round 4: Player used basic move.
+[Oca 10 01:17:19 2026] Round 4: PLAYER: Predator moved from (5,0) to (5,1)
+[Oca 10 01:17:19 2026] Round 4: AI (APEX): Giganotosaurus moved to (8,4)
+[Oca 10 01:17:20 2026] Round 5: AI (PREY): Stegosaurus moved to (9,5)
+[Oca 10 01:17:20 2026] Round 5: Player used basic move.
+[Oca 10 01:17:20 2026] Round 5: PLAYER: Predator moved from (5,1) to (4,2)
+[Oca 10 01:17:20 2026] Round 5: AI (APEX): Giganotosaurus moved to (9,5)
+[Oca 10 01:17:20 2026] Round 5: EVENT: Apex CAUGHT Prey at (9,5)
+[Oca 10 01:17:23 2026] Round 6: AI (PREY): Stegosaurus moved to (1,3)
+[Oca 10 01:17:23 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:23 2026] Round 6: PLAYER: Predator moved from (4,2) to (2,2)
+[Oca 10 01:17:23 2026] Round 6: AI (APEX): Giganotosaurus moved to (7,3)
+[Oca 10 01:17:25 2026] Round 7: AI (PREY): Stegosaurus moved to (0,4)
+[Oca 10 01:17:25 2026] Round 7: Player used basic move.
+[Oca 10 01:17:25 2026] Round 7: PLAYER: Predator moved from (2,2) to (2,3)
+[Oca 10 01:17:25 2026] Round 7: AI (APEX): Giganotosaurus moved to (6,3)
+[Oca 10 01:17:26 2026] Round 8: AI (PREY): Stegosaurus moved to (0,5)
+[Oca 10 01:17:26 2026] Round 8: Player used basic move.
+[Oca 10 01:17:26 2026] Round 8: PLAYER: Predator moved from (2,3) to (2,4)
+[Oca 10 01:17:26 2026] Round 8: AI (APEX): Giganotosaurus moved to (5,4)
+[Oca 10 01:17:27 2026] Round 9: AI (PREY): Stegosaurus moved to (1,7)
+[Oca 10 01:17:27 2026] Round 9: Player used basic move.
+[Oca 10 01:17:27 2026] Round 9: PLAYER: Predator moved from (2,4) to (1,5)
+[Oca 10 01:17:27 2026] Round 9: AI (APEX): Giganotosaurus moved to (4,5)
+[Oca 10 01:17:27 2026] GAME OVER: APEX PREDATOR WINS! Final Score: 0
+[Oca 10 01:17:29 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 10 01:17:33 2026] Round 0: AI (PREY): Stegosaurus moved to (6,7)
+[Oca 10 01:17:33 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:33 2026] Round 0: PLAYER: Predator moved from (9,2) to (9,4)
+[Oca 10 01:17:33 2026] Round 0: AI (APEX): Giganotosaurus moved to (2,7)
+[Oca 10 01:17:35 2026] Round 1: AI (PREY): Stegosaurus moved to (7,8)
+[Oca 10 01:17:35 2026] Round 1: Player used basic move.
+[Oca 10 01:17:35 2026] Round 1: PLAYER: Predator moved from (9,4) to (9,5)
+[Oca 10 01:17:35 2026] Round 1: AI (APEX): Giganotosaurus moved to (3,8)
+[Oca 10 01:17:36 2026] Round 2: AI (PREY): Stegosaurus moved to (8,9)
+[Oca 10 01:17:36 2026] Round 2: Player used basic move.
+[Oca 10 01:17:36 2026] Round 2: PLAYER: Predator moved from (9,5) to (9,6)
+[Oca 10 01:17:36 2026] Round 2: AI (APEX): Giganotosaurus moved to (4,9)
+[Oca 10 01:17:37 2026] Round 3: AI (PREY): Stegosaurus moved to (9,8)
+[Oca 10 01:17:37 2026] Round 3: EVENT: Prey ATE FOOD at (9,8) | New Prey Score: 0
+[Oca 10 01:17:37 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:37 2026] Round 3: PLAYER: Predator moved from (9,6) to (9,8)
+[Oca 10 01:17:37 2026] Round 3: EVENT: Hunter CAUGHT Prey at (9,8) | Score: 3
+[Oca 10 01:17:37 2026] Round 3: AI (APEX): Giganotosaurus moved to (5,8)
+[Oca 10 01:17:41 2026] Round 4: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 10 01:17:41 2026] Round 4: Player used basic move.
+[Oca 10 01:17:41 2026] Round 4: PLAYER: Predator moved from (9,8) to (9,7)
+[Oca 10 01:17:41 2026] Round 4: AI (APEX): Giganotosaurus moved to (6,7)
+[Oca 10 01:17:42 2026] Round 5: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 10 01:17:42 2026] Round 5: Player used basic move.
+[Oca 10 01:17:42 2026] Round 5: PLAYER: Predator moved from (9,7) to (9,6)
+[Oca 10 01:17:42 2026] Round 5: AI (APEX): Giganotosaurus moved to (7,6)
+[Oca 10 01:17:42 2026] Round 6: AI (PREY): Stegosaurus moved to (1,0)
+[Oca 10 01:17:42 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 10 01:17:42 2026] Round 6: PLAYER: Predator moved from (9,6) to (9,4)
+[Oca 10 01:17:42 2026] Round 6: AI (APEX): Giganotosaurus moved to (9,4)
+[Oca 10 01:17:42 2026] Round 6: EVENT: Apex CAUGHT PLAYER at (9,4)
+[Oca 10 01:17:44 2026] Round 7: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 10 01:17:44 2026] Round 7: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 10 01:17:45 2026] Round 7: AI (PREY): Stegosaurus moved to (1,0)
+[Oca 10 01:17:45 2026] Round 7: Player used basic move.
+[Oca 10 01:17:45 2026] Round 7: PLAYER: Predator moved from (7,5) to (6,4)
+[Oca 10 01:17:45 2026] Round 7: AI (APEX): Giganotosaurus moved to (8,4)
+[Oca 10 01:17:46 2026] Round 8: AI (PREY): Stegosaurus moved to (0,0)
+[Oca 10 01:17:46 2026] Round 8: Player used basic move.
+[Oca 10 01:17:46 2026] Round 8: PLAYER: Predator moved from (6,4) to (5,3)
+[Oca 10 01:17:46 2026] Round 8: AI (APEX): Giganotosaurus moved to (7,3)
+[Oca 10 01:17:48 2026] Round 9: AI (PREY): Stegosaurus moved to (0,1)
+[Oca 10 01:17:48 2026] Round 9: Player used basic move.
+[Oca 10 01:17:48 2026] Round 9: PLAYER: Predator moved from (5,3) to (4,2)
+[Oca 10 01:17:48 2026] Round 9: AI (APEX): Giganotosaurus moved to (6,2)
+[Oca 10 01:17:48 2026] GAME OVER: TIE WINS! Final Score: 2
+[Oca 23 16:18:13 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 23 16:18:18 2026] Round 0: AI (PREY): Robot moved to (1,5)
+[Oca 23 16:18:18 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:18:18 2026] Round 0: PLAYER: Predator moved from (7,1) to (7,3)
+[Oca 23 16:18:18 2026] Round 0: AI (APEX): Leviathan moved to (7,3)
+[Oca 23 16:18:18 2026] Round 0: EVENT: Apex CAUGHT PLAYER at (7,3)
+[Oca 23 16:18:20 2026] Round 1: AI (PREY): Robot moved to (0,4)
+[Oca 23 16:18:20 2026] Round 1: Player used basic move.
+[Oca 23 16:18:20 2026] Round 1: PLAYER: Predator moved from (3,6) to (2,5)
+[Oca 23 16:18:20 2026] Round 1: AI (APEX): Leviathan moved to (6,4)
+[Oca 23 16:18:21 2026] Round 2: AI (PREY): Robot moved to (0,1)
+[Oca 23 16:18:21 2026] Round 2: Player used basic move.
+[Oca 23 16:18:21 2026] Round 2: PLAYER: Predator moved from (2,5) to (1,4)
+[Oca 23 16:18:21 2026] Round 2: AI (APEX): Leviathan moved to (5,4)
+[Oca 23 16:18:23 2026] Round 3: AI (PREY): Robot moved to (1,0)
+[Oca 23 16:18:23 2026] Round 3: EVENT: Prey ATE FOOD at (1,0) | New Prey Score: 0
+[Oca 23 16:18:23 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:18:23 2026] Round 3: PLAYER: Predator moved from (1,4) to (1,2)
+[Oca 23 16:18:23 2026] Round 3: AI (APEX): Leviathan moved to (4,3)
+[Oca 23 16:18:24 2026] Round 4: AI (PREY): Robot moved to (2,0)
+[Oca 23 16:18:24 2026] Round 4: Player used basic move.
+[Oca 23 16:18:24 2026] Round 4: PLAYER: Predator moved from (1,2) to (2,1)
+[Oca 23 16:18:24 2026] Round 4: AI (APEX): Leviathan moved to (2,0)
+[Oca 23 16:18:24 2026] Round 4: EVENT: Apex CAUGHT Prey at (2,0)
+[Oca 23 16:18:26 2026] Round 5: AI (PREY): Robot moved to (2,3)
+[Oca 23 16:18:26 2026] Round 5: EVENT: Prey ATE FOOD at (2,3) | New Prey Score: 2
+[Oca 23 16:18:26 2026] Round 5: Player used basic move.
+[Oca 23 16:18:26 2026] Round 5: PLAYER: Predator moved from (2,1) to (1,2)
+[Oca 23 16:18:26 2026] Round 5: AI (APEX): Leviathan moved to (1,1)
+[Oca 23 16:18:29 2026] Round 6: AI (PREY): Robot moved to (2,4)
+[Oca 23 16:18:29 2026] Round 6: EVENT: Prey ATE FOOD at (2,4) | New Prey Score: 5
+[Oca 23 16:18:29 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:18:29 2026] Round 6: PLAYER: Predator moved from (1,2) to (1,4)
+[Oca 23 16:18:29 2026] Round 6: AI (APEX): Leviathan moved to (1,2)
+[Oca 23 16:18:31 2026] Round 7: AI (PREY): Robot moved to (5,7)
+[Oca 23 16:18:31 2026] Round 7: Player used basic move.
+[Oca 23 16:18:31 2026] Round 7: PLAYER: Predator moved from (1,4) to (2,5)
+[Oca 23 16:18:31 2026] Round 7: AI (APEX): Leviathan moved to (2,3)
+[Oca 23 16:18:32 2026] Round 8: AI (PREY): Robot moved to (6,8)
+[Oca 23 16:18:32 2026] Round 8: Player used basic move.
+[Oca 23 16:18:32 2026] Round 8: PLAYER: Predator moved from (2,5) to (3,6)
+[Oca 23 16:18:32 2026] Round 8: AI (APEX): Leviathan moved to (3,6)
+[Oca 23 16:18:32 2026] Round 8: EVENT: Apex CAUGHT PLAYER at (3,6)
+[Oca 23 16:18:34 2026] Round 9: AI (PREY): Robot moved to (7,9)
+[Oca 23 16:18:34 2026] Round 9: Player used basic move.
+[Oca 23 16:18:34 2026] Round 9: PLAYER: Predator moved from (2,1) to (3,0)
+[Oca 23 16:18:34 2026] Round 9: AI (APEX): Leviathan moved to (4,7)
+[Oca 23 16:18:35 2026] Round 10: AI (PREY): Robot moved to (9,9)
+[Oca 23 16:18:35 2026] Round 10: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:35 2026] Round 10: AI (APEX): Leviathan moved to (5,8)
+[Oca 23 16:18:36 2026] Round 11: AI (PREY): Robot moved to (9,8)
+[Oca 23 16:18:36 2026] Round 11: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:36 2026] Round 11: AI (APEX): Leviathan moved to (6,8)
+[Oca 23 16:18:36 2026] Round 12: AI (PREY): Robot moved to (9,7)
+[Oca 23 16:18:36 2026] Round 12: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:36 2026] Round 12: AI (APEX): Leviathan moved to (9,7)
+[Oca 23 16:18:36 2026] Round 12: EVENT: Apex CAUGHT Prey at (9,7)
+[Oca 23 16:18:38 2026] Round 13: AI (PREY): Robot moved to (8,2)
+[Oca 23 16:18:38 2026] Round 13: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:38 2026] Round 13: AI (APEX): Leviathan moved to (8,6)
+[Oca 23 16:18:39 2026] Round 14: AI (PREY): Robot moved to (7,2)
+[Oca 23 16:18:39 2026] Round 14: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:39 2026] Round 14: AI (APEX): Leviathan moved to (7,5)
+[Oca 23 16:18:40 2026] Round 15: AI (PREY): Robot moved to (6,2)
+[Oca 23 16:18:40 2026] Round 15: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:40 2026] Round 15: AI (APEX): Leviathan moved to (6,4)
+[Oca 23 16:18:41 2026] Round 16: AI (PREY): Robot moved to (9,0)
+[Oca 23 16:18:41 2026] Round 16: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:41 2026] Round 16: AI (APEX): Leviathan moved to (9,1)
+[Oca 23 16:18:42 2026] Round 17: AI (PREY): Robot moved to (8,0)
+[Oca 23 16:18:42 2026] Round 17: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:42 2026] Round 17: AI (APEX): Leviathan moved to (8,0)
+[Oca 23 16:18:42 2026] Round 17: EVENT: Apex CAUGHT Prey at (8,0)
+[Oca 23 16:18:44 2026] Round 18: AI (PREY): Robot moved to (5,1)
+[Oca 23 16:18:44 2026] Round 18: PLAYER: Predator moved from (3,0) to (3,0)
+[Oca 23 16:18:44 2026] Round 18: AI (APEX): Leviathan moved to (7,1)
+[Oca 23 16:18:47 2026] Round 19: AI (PREY): Robot moved to (5,4)
+[Oca 23 16:18:47 2026] Round 19: Player used basic move.
+[Oca 23 16:18:47 2026] Round 19: PLAYER: Predator moved from (3,0) to (3,1)
+[Oca 23 16:18:47 2026] Round 19: AI (APEX): Leviathan moved to (6,2)
+[Oca 23 16:18:50 2026] Round 20: AI (PREY): Robot moved to (4,5)
+[Oca 23 16:18:50 2026] Round 20: Player used basic move.
+[Oca 23 16:18:50 2026] Round 20: PLAYER: Predator moved from (3,1) to (2,1)
+[Oca 23 16:18:50 2026] Round 20: AI (APEX): Leviathan moved to (4,5)
+[Oca 23 16:18:50 2026] Round 20: EVENT: Apex CAUGHT Prey at (4,5)
+[Oca 23 16:18:51 2026] Round 21: AI (PREY): Robot moved to (8,2)
+[Oca 23 16:18:51 2026] Round 21: Player used basic move.
+[Oca 23 16:18:51 2026] Round 21: PLAYER: Predator moved from (2,1) to (1,1)
+[Oca 23 16:18:51 2026] Round 21: AI (APEX): Leviathan moved to (5,4)
+[Oca 23 16:18:53 2026] Round 22: AI (PREY): Robot moved to (9,0)
+[Oca 23 16:18:53 2026] Round 22: Player used basic move.
+[Oca 23 16:18:53 2026] Round 22: PLAYER: Predator moved from (1,1) to (0,0)
+[Oca 23 16:18:53 2026] Round 22: AI (APEX): Leviathan moved to (6,3)
+[Oca 23 16:18:53 2026] Round 23: AI (PREY): Robot moved to (8,0)
+[Oca 23 16:18:53 2026] Round 23: PLAYER: Predator moved from (0,0) to (0,0)
+[Oca 23 16:18:53 2026] Round 23: AI (APEX): Leviathan moved to (7,2)
+[Oca 23 16:18:54 2026] Round 24: AI (PREY): Robot moved to (9,0)
+[Oca 23 16:18:54 2026] Round 24: PLAYER: Predator moved from (0,0) to (0,0)
+[Oca 23 16:18:54 2026] Round 24: AI (APEX): Leviathan moved to (9,0)
+[Oca 23 16:18:54 2026] Round 24: EVENT: Apex CAUGHT Prey at (9,0)
+[Oca 23 16:18:56 2026] Round 25: AI (PREY): Robot moved to (5,9)
+[Oca 23 16:18:56 2026] Round 25: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:18:56 2026] Round 25: PLAYER: Predator moved from (0,0) to (0,2)
+[Oca 23 16:18:56 2026] Round 25: AI (APEX): Leviathan moved to (8,1)
+[Oca 23 16:18:58 2026] Round 26: AI (PREY): Robot moved to (4,9)
+[Oca 23 16:18:58 2026] Round 26: Player used basic move.
+[Oca 23 16:18:58 2026] Round 26: PLAYER: Predator moved from (0,2) to (0,3)
+[Oca 23 16:18:58 2026] Round 26: AI (APEX): Leviathan moved to (7,2)
+[Oca 23 16:18:59 2026] Round 27: AI (PREY): Robot moved to (4,8)
+[Oca 23 16:18:59 2026] Round 27: Player used basic move.
+[Oca 23 16:18:59 2026] Round 27: PLAYER: Predator moved from (0,3) to (0,4)
+[Oca 23 16:18:59 2026] Round 27: AI (APEX): Leviathan moved to (6,3)
+[Oca 23 16:19:01 2026] Round 28: AI (PREY): Robot moved to (3,9)
+[Oca 23 16:19:01 2026] Round 28: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:01 2026] Round 28: PLAYER: Predator moved from (0,4) to (0,6)
+[Oca 23 16:19:01 2026] Round 28: AI (APEX): Leviathan moved to (3,6)
+[Oca 23 16:19:06 2026] Round 29: AI (PREY): Robot moved to (2,9)
+[Oca 23 16:19:06 2026] Round 29: Player used basic move.
+[Oca 23 16:19:06 2026] Round 29: PLAYER: Predator moved from (0,6) to (0,7)
+[Oca 23 16:19:06 2026] Round 29: AI (APEX): Leviathan moved to (2,7)
+[Oca 23 16:19:07 2026] Round 30: AI (PREY): Robot moved to (3,9)
+[Oca 23 16:19:07 2026] Round 30: Player used basic move.
+[Oca 23 16:19:07 2026] Round 30: PLAYER: Predator moved from (0,7) to (1,8)
+[Oca 23 16:19:07 2026] Round 30: AI (APEX): Leviathan moved to (1,8)
+[Oca 23 16:19:07 2026] Round 30: EVENT: Apex CAUGHT PLAYER at (1,8)
+[Oca 23 16:19:09 2026] Round 31: AI (PREY): Robot moved to (6,6)
+[Oca 23 16:19:09 2026] Round 31: Player used basic move.
+[Oca 23 16:19:09 2026] Round 31: PLAYER: Predator moved from (0,9) to (1,9)
+[Oca 23 16:19:09 2026] Round 31: AI (APEX): Leviathan moved to (1,9)
+[Oca 23 16:19:09 2026] Round 31: EVENT: Apex CAUGHT PLAYER at (1,9)
+[Oca 23 16:19:10 2026] Round 32: AI (PREY): Robot moved to (5,5)
+[Oca 23 16:19:10 2026] Round 32: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:10 2026] Round 32: PLAYER: Predator moved from (6,9) to (6,7)
+[Oca 23 16:19:10 2026] Round 32: AI (APEX): Leviathan moved to (4,7)
+[Oca 23 16:19:11 2026] Round 33: AI (PREY): Robot moved to (5,4)
+[Oca 23 16:19:11 2026] Round 33: Player used basic move.
+[Oca 23 16:19:11 2026] Round 33: PLAYER: Predator moved from (6,7) to (6,6)
+[Oca 23 16:19:11 2026] Round 33: AI (APEX): Leviathan moved to (5,6)
+[Oca 23 16:19:12 2026] Round 34: AI (PREY): Robot moved to (2,1)
+[Oca 23 16:19:12 2026] Round 34: Player used basic move.
+[Oca 23 16:19:12 2026] Round 34: PLAYER: Predator moved from (6,6) to (7,5)
+[Oca 23 16:19:12 2026] Round 34: AI (APEX): Leviathan moved to (6,5)
+[Oca 23 16:19:13 2026] Round 35: AI (PREY): Robot moved to (3,2)
+[Oca 23 16:19:13 2026] Round 35: EVENT: Prey ATE FOOD at (3,2) | New Prey Score: 4
+[Oca 23 16:19:13 2026] Round 35: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:13 2026] Round 35: PLAYER: Predator moved from (7,5) to (5,3)
+[Oca 23 16:19:13 2026] Round 35: AI (APEX): Leviathan moved to (5,4)
+[Oca 23 16:19:14 2026] Round 36: AI (PREY): Robot moved to (2,1)
+[Oca 23 16:19:14 2026] Round 36: Player used basic move.
+[Oca 23 16:19:14 2026] Round 36: PLAYER: Predator moved from (5,3) to (4,2)
+[Oca 23 16:19:14 2026] Round 36: AI (APEX): Leviathan moved to (4,2)
+[Oca 23 16:19:14 2026] Round 36: EVENT: Apex CAUGHT PLAYER at (4,2)
+[Oca 23 16:19:16 2026] Round 37: AI (PREY): Robot moved to (0,4)
+[Oca 23 16:19:16 2026] Round 37: Player used basic move.
+[Oca 23 16:19:16 2026] Round 37: PLAYER: Predator moved from (8,5) to (8,6)
+[Oca 23 16:19:16 2026] Round 37: AI (APEX): Leviathan moved to (3,3)
+[Oca 23 16:19:17 2026] Round 38: AI (PREY): Robot moved to (0,5)
+[Oca 23 16:19:17 2026] Round 38: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:17 2026] Round 38: PLAYER: Predator moved from (8,6) to (8,8)
+[Oca 23 16:19:17 2026] Round 38: AI (APEX): Leviathan moved to (2,4)
+[Oca 23 16:19:17 2026] Round 39: AI (PREY): Robot moved to (0,6)
+[Oca 23 16:19:17 2026] Round 39: Player used basic move.
+[Oca 23 16:19:17 2026] Round 39: PLAYER: Predator moved from (8,8) to (9,9)
+[Oca 23 16:19:17 2026] Round 39: AI (APEX): Leviathan moved to (1,5)
+[Oca 23 16:19:18 2026] Round 40: AI (PREY): Robot moved to (3,9)
+[Oca 23 16:19:18 2026] Round 40: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 23 16:19:18 2026] Round 40: AI (APEX): Leviathan moved to (3,8)
+[Oca 23 16:19:18 2026] Round 41: AI (PREY): Robot moved to (4,9)
+[Oca 23 16:19:18 2026] Round 41: PLAYER: Predator moved from (9,9) to (9,9)
+[Oca 23 16:19:18 2026] Round 41: AI (APEX): Leviathan moved to (4,9)
+[Oca 23 16:19:18 2026] Round 41: EVENT: Apex CAUGHT Prey at (4,9)
+[Oca 23 16:19:20 2026] Round 42: AI (PREY): Robot moved to (7,6)
+[Oca 23 16:19:20 2026] Round 42: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:20 2026] Round 42: PLAYER: Predator moved from (9,9) to (9,7)
+[Oca 23 16:19:20 2026] Round 42: AI (APEX): Leviathan moved to (5,8)
+[Oca 23 16:19:24 2026] Round 43: AI (PREY): Robot moved to (4,3)
+[Oca 23 16:19:24 2026] Round 43: Player used basic move.
+[Oca 23 16:19:24 2026] Round 43: PLAYER: Predator moved from (9,7) to (8,6)
+[Oca 23 16:19:24 2026] Round 43: AI (APEX): Leviathan moved to (6,7)
+[Oca 23 16:19:26 2026] Round 44: AI (PREY): Robot moved to (3,2)
+[Oca 23 16:19:26 2026] Round 44: Player used basic move.
+[Oca 23 16:19:26 2026] Round 44: PLAYER: Predator moved from (8,6) to (8,5)
+[Oca 23 16:19:26 2026] Round 44: AI (APEX): Leviathan moved to (8,5)
+[Oca 23 16:19:26 2026] Round 44: EVENT: Apex CAUGHT PLAYER at (8,5)
+[Oca 23 16:19:28 2026] Round 45: AI (PREY): Robot moved to (2,1)
+[Oca 23 16:19:28 2026] Round 45: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:28 2026] Round 45: PLAYER: Predator moved from (6,5) to (6,7)
+[Oca 23 16:19:28 2026] Round 45: AI (APEX): Leviathan moved to (7,6)
+[Oca 23 16:19:29 2026] Round 46: AI (PREY): Robot moved to (0,0)
+[Oca 23 16:19:29 2026] Round 46: PLAYER: Predator moved from (6,7) to (6,7)
+[Oca 23 16:19:29 2026] Round 46: AI (APEX): Leviathan moved to (6,7)
+[Oca 23 16:19:29 2026] Round 46: EVENT: Apex CAUGHT PLAYER at (6,7)
+[Oca 23 16:19:30 2026] Round 47: AI (PREY): Robot moved to (1,0)
+[Oca 23 16:19:30 2026] Round 47: Player used basic move.
+[Oca 23 16:19:30 2026] Round 47: PLAYER: Predator moved from (9,3) to (8,2)
+[Oca 23 16:19:30 2026] Round 47: AI (APEX): Leviathan moved to (7,6)
+[Oca 23 16:19:31 2026] Round 48: AI (PREY): Robot moved to (0,0)
+[Oca 23 16:19:31 2026] Round 48: ACTION: Hunter used SPECIAL SKILL! (Era: FUTURE)
+[Oca 23 16:19:31 2026] Round 48: PLAYER: Predator moved from (8,2) to (6,0)
+[Oca 23 16:19:31 2026] Round 48: AI (APEX): Leviathan moved to (6,3)
+[Oca 23 16:19:31 2026] Round 49: AI (PREY): Robot moved to (0,2)
+[Oca 23 16:19:31 2026] Round 49: Player used basic move.
+[Oca 23 16:19:31 2026] Round 49: PLAYER: Predator moved from (6,0) to (5,0)
+[Oca 23 16:19:31 2026] Round 49: AI (APEX): Leviathan moved to (5,2)
+[Oca 23 16:19:31 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -7
+[Oca 29 15:41:48 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 29 15:42:02 2026] Round 0: AI (PREY): Triceratops moved to (2,0)
+[Oca 29 15:42:02 2026] Round 0: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:02 2026] Round 0: PLAYER: Predator moved from (4,4) to (2,4)
+[Oca 29 15:42:02 2026] Round 0: AI (APEX): T-Rex moved to (4,4)
+[Oca 29 15:42:03 2026] Round 1: AI (PREY): Triceratops moved to (3,0)
+[Oca 29 15:42:03 2026] Round 1: PLAYER: Predator moved from (2,4) to (2,4)
+[Oca 29 15:42:03 2026] Round 1: AI (APEX): T-Rex moved to (2,4)
+[Oca 29 15:42:03 2026] Round 1: EVENT: Apex CAUGHT PLAYER at (2,4)
+[Oca 29 15:42:05 2026] Round 2: AI (PREY): Triceratops moved to (5,1)
+[Oca 29 15:42:05 2026] Round 2: Player used basic move.
+[Oca 29 15:42:05 2026] Round 2: PLAYER: Predator moved from (5,6) to (6,6)
+[Oca 29 15:42:05 2026] Round 2: AI (APEX): T-Rex moved to (3,3)
+[Oca 29 15:42:15 2026] Round 3: AI (PREY): Triceratops moved to (6,2)
+[Oca 29 15:42:15 2026] Round 3: EVENT: Prey ATE FOOD at (6,2) | New Prey Score: 0
+[Oca 29 15:42:15 2026] Round 3: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:15 2026] Round 3: PLAYER: Predator moved from (6,6) to (6,8)
+[Oca 29 15:42:15 2026] Round 3: AI (APEX): T-Rex moved to (4,2)
+[Oca 29 15:42:17 2026] Round 4: AI (PREY): Triceratops moved to (7,1)
+[Oca 29 15:42:17 2026] Round 4: Player used basic move.
+[Oca 29 15:42:17 2026] Round 4: PLAYER: Predator moved from (6,8) to (7,9)
+[Oca 29 15:42:17 2026] Round 4: AI (APEX): T-Rex moved to (5,1)
+[Oca 29 15:42:18 2026] Round 5: AI (PREY): Triceratops moved to (8,0)
+[Oca 29 15:42:18 2026] Round 5: EVENT: Prey ATE FOOD at (8,0) | New Prey Score: 3
+[Oca 29 15:42:18 2026] Round 5: Player used basic move.
+[Oca 29 15:42:18 2026] Round 5: PLAYER: Predator moved from (7,9) to (6,9)
+[Oca 29 15:42:18 2026] Round 5: AI (APEX): T-Rex moved to (6,0)
+[Oca 29 15:42:23 2026] Round 6: AI (PREY): Triceratops moved to (9,2)
+[Oca 29 15:42:23 2026] Round 6: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:23 2026] Round 6: PLAYER: Predator moved from (6,9) to (4,9)
+[Oca 29 15:42:23 2026] Round 6: AI (APEX): T-Rex moved to (8,2)
+[Oca 29 15:42:31 2026] Round 7: AI (PREY): Triceratops moved to (9,1)
+[Oca 29 15:42:31 2026] Round 7: Player used basic move.
+[Oca 29 15:42:31 2026] Round 7: PLAYER: Predator moved from (4,9) to (3,8)
+[Oca 29 15:42:31 2026] Round 7: AI (APEX): T-Rex moved to (9,1)
+[Oca 29 15:42:31 2026] Round 7: EVENT: Apex CAUGHT Prey at (9,1)
+[Oca 29 15:42:35 2026] Round 8: AI (PREY): Triceratops moved to (0,2)
+[Oca 29 15:42:35 2026] Round 8: Player used basic move.
+[Oca 29 15:42:35 2026] Round 8: PLAYER: Predator moved from (3,8) to (2,7)
+[Oca 29 15:42:35 2026] Round 8: AI (APEX): T-Rex moved to (8,2)
+[Oca 29 15:42:36 2026] Round 9: AI (PREY): Triceratops moved to (1,1)
+[Oca 29 15:42:36 2026] Round 9: EVENT: Prey ATE FOOD at (1,1) | New Prey Score: 5
+[Oca 29 15:42:36 2026] Round 9: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:36 2026] Round 9: PLAYER: Predator moved from (2,7) to (2,5)
+[Oca 29 15:42:36 2026] Round 9: AI (APEX): T-Rex moved to (6,4)
+[Oca 29 15:42:37 2026] Round 10: AI (PREY): Triceratops moved to (3,0)
+[Oca 29 15:42:37 2026] Round 10: Player used basic move.
+[Oca 29 15:42:37 2026] Round 10: PLAYER: Predator moved from (2,5) to (2,4)
+[Oca 29 15:42:37 2026] Round 10: AI (APEX): T-Rex moved to (5,4)
+[Oca 29 15:42:39 2026] Round 11: AI (PREY): Triceratops moved to (4,0)
+[Oca 29 15:42:39 2026] Round 11: Player used basic move.
+[Oca 29 15:42:39 2026] Round 11: PLAYER: Predator moved from (2,4) to (2,3)
+[Oca 29 15:42:39 2026] Round 11: AI (APEX): T-Rex moved to (4,3)
+[Oca 29 15:42:40 2026] Round 12: AI (PREY): Triceratops moved to (5,0)
+[Oca 29 15:42:40 2026] Round 12: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:40 2026] Round 12: PLAYER: Predator moved from (2,3) to (2,1)
+[Oca 29 15:42:40 2026] Round 12: AI (APEX): T-Rex moved to (2,1)
+[Oca 29 15:42:40 2026] Round 12: EVENT: Apex CAUGHT PLAYER at (2,1)
+[Oca 29 15:42:45 2026] Round 13: AI (PREY): Triceratops moved to (7,1)
+[Oca 29 15:42:45 2026] Round 13: Player used basic move.
+[Oca 29 15:42:45 2026] Round 13: PLAYER: Predator moved from (7,8) to (7,7)
+[Oca 29 15:42:45 2026] Round 13: AI (APEX): T-Rex moved to (3,1)
+[Oca 29 15:42:48 2026] Round 14: AI (PREY): Triceratops moved to (8,2)
+[Oca 29 15:42:48 2026] Round 14: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 29 15:42:48 2026] Round 14: AI (APEX): T-Rex moved to (4,2)
+[Oca 29 15:42:48 2026] Round 15: AI (PREY): Triceratops moved to (9,3)
+[Oca 29 15:42:48 2026] Round 15: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 29 15:42:48 2026] Round 15: AI (APEX): T-Rex moved to (5,3)
+[Oca 29 15:42:49 2026] Round 16: AI (PREY): Triceratops moved to (9,4)
+[Oca 29 15:42:49 2026] Round 16: PLAYER: Predator moved from (7,7) to (7,7)
+[Oca 29 15:42:49 2026] Round 16: AI (APEX): T-Rex moved to (7,5)
+[Oca 29 15:42:52 2026] Round 17: AI (PREY): Triceratops moved to (8,6)
+[Oca 29 15:42:52 2026] Round 17: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:42:52 2026] Round 17: PLAYER: Predator moved from (7,7) to (7,9)
+[Oca 29 15:42:52 2026] Round 17: AI (APEX): T-Rex moved to (8,6)
+[Oca 29 15:42:52 2026] Round 17: EVENT: Apex CAUGHT Prey at (8,6)
+[Oca 29 15:42:59 2026] Round 18: AI (PREY): Triceratops moved to (6,0)
+[Oca 29 15:42:59 2026] Round 18: Player used basic move.
+[Oca 29 15:42:59 2026] Round 18: PLAYER: Predator moved from (7,9) to (6,9)
+[Oca 29 15:42:59 2026] Round 18: AI (APEX): T-Rex moved to (7,7)
+[Oca 29 15:42:59 2026] Round 19: AI (PREY): Triceratops moved to (5,0)
+[Oca 29 15:42:59 2026] Round 19: Player used basic move.
+[Oca 29 15:42:59 2026] Round 19: PLAYER: Predator moved from (6,9) to (5,9)
+[Oca 29 15:42:59 2026] Round 19: AI (APEX): T-Rex moved to (5,9)
+[Oca 29 15:42:59 2026] Round 19: EVENT: Apex CAUGHT PLAYER at (5,9)
+[Oca 29 15:43:01 2026] Round 20: AI (PREY): Triceratops moved to (6,0)
+[Oca 29 15:43:01 2026] Round 20: Player used basic move.
+[Oca 29 15:43:01 2026] Round 20: PLAYER: Predator moved from (7,8) to (8,7)
+[Oca 29 15:43:01 2026] Round 20: AI (APEX): T-Rex moved to (6,8)
+[Oca 29 15:43:01 2026] Round 21: AI (PREY): Triceratops moved to (7,0)
+[Oca 29 15:43:01 2026] Round 21: PLAYER: Predator moved from (8,7) to (8,7)
+[Oca 29 15:43:01 2026] Round 21: AI (APEX): T-Rex moved to (7,7)
+[Oca 29 15:43:02 2026] Round 22: AI (PREY): Triceratops moved to (6,0)
+[Oca 29 15:43:02 2026] Round 22: ACTION: Hunter used SPECIAL SKILL! (Era: PAST)
+[Oca 29 15:43:02 2026] Round 22: PLAYER: Predator moved from (8,7) to (8,5)
+[Oca 29 15:43:02 2026] Round 22: AI (APEX): T-Rex moved to (8,6)
+[Oca 29 15:43:03 2026] Round 23: AI (PREY): Triceratops moved to (5,0)
+[Oca 29 15:43:03 2026] Round 23: Player used basic move.
+[Oca 29 15:43:03 2026] Round 23: PLAYER: Predator moved from (8,5) to (9,4)
+[Oca 29 15:43:03 2026] Round 23: AI (APEX): T-Rex moved to (9,5)
+[Oca 29 15:43:03 2026] Round 24: AI (PREY): Triceratops moved to (4,0)
+[Oca 29 15:43:03 2026] Round 24: Player used basic move.
+[Oca 29 15:43:03 2026] Round 24: PLAYER: Predator moved from (9,4) to (8,4)
+[Oca 29 15:43:03 2026] Round 24: AI (APEX): T-Rex moved to (8,4)
+[Oca 29 15:43:03 2026] Round 24: EVENT: Apex CAUGHT PLAYER at (8,4)
+[Oca 29 15:43:03 2026] GAME OVER: PREY WINS! Final Score: -4
+[Oca 29 15:43:11 2026] === NEW GAME STARTED (Era: FUTURE) ===
+[Oca 29 15:44:10 2026] Round 0: AI (PREY): Human moved to (9,8)
+[Oca 29 15:44:10 2026] Round 0: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:10 2026] Round 0: AI (APEX): Alien Overlord moved to (9,6)
+[Oca 29 15:44:10 2026] Round 1: AI (PREY): Human moved to (8,9)
+[Oca 29 15:44:10 2026] Round 1: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:10 2026] Round 1: AI (APEX): Alien Overlord moved to (8,7)
+[Oca 29 15:44:10 2026] Round 2: AI (PREY): Human moved to (5,9)
+[Oca 29 15:44:10 2026] Round 2: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:10 2026] Round 2: AI (APEX): Alien Overlord moved to (7,8)
+[Oca 29 15:44:10 2026] Round 3: AI (PREY): Human moved to (4,9)
+[Oca 29 15:44:10 2026] Round 3: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:10 2026] Round 3: AI (APEX): Alien Overlord moved to (6,9)
+[Oca 29 15:44:10 2026] Round 4: AI (PREY): Human moved to (3,8)
+[Oca 29 15:44:10 2026] Round 4: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:10 2026] Round 4: AI (APEX): Alien Overlord moved to (3,8)
+[Oca 29 15:44:10 2026] Round 4: EVENT: Apex CAUGHT Prey at (3,8)
+[Oca 29 15:44:11 2026] Round 5: AI (PREY): Human moved to (1,9)
+[Oca 29 15:44:11 2026] Round 5: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:11 2026] Round 5: AI (APEX): Alien Overlord moved to (2,9)
+[Oca 29 15:44:11 2026] Round 6: AI (PREY): Human moved to (1,8)
+[Oca 29 15:44:11 2026] Round 6: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:11 2026] Round 6: AI (APEX): Alien Overlord moved to (1,8)
+[Oca 29 15:44:11 2026] Round 6: EVENT: Apex CAUGHT Prey at (1,8)
+[Oca 29 15:44:11 2026] Round 7: AI (PREY): Human moved to (2,3)
+[Oca 29 15:44:11 2026] Round 7: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:11 2026] Round 7: AI (APEX): Alien Overlord moved to (0,7)
+[Oca 29 15:44:11 2026] Round 8: AI (PREY): Human moved to (5,0)
+[Oca 29 15:44:11 2026] Round 8: PLAYER: Predator moved from (0,6) to (0,6)
+[Oca 29 15:44:11 2026] Round 8: AI (APEX): Alien Overlord moved to (0,6)
+[Oca 29 15:44:11 2026] Round 8: EVENT: Apex CAUGHT PLAYER at (0,6)
+[Oca 29 15:44:12 2026] Round 9: AI (PREY): Human moved to (6,1)
+[Oca 29 15:44:12 2026] Round 9: EVENT: Prey ATE FOOD at (6,1) | New Prey Score: -2
+[Oca 29 15:44:12 2026] Round 9: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 29 15:44:12 2026] Round 9: AI (PREY): Human moved to (7,0)
+[Oca 29 15:44:12 2026] Round 9: WARNING: Special Move FAILED (Cooldown or Invalid)!
+[Oca 29 15:44:14 2026] Round 9: AI (PREY): Human moved to (8,0)
+[Oca 29 15:44:14 2026] Round 9: Player used basic move.
+[Oca 29 15:44:14 2026] Round 9: PLAYER: Predator moved from (6,8) to (6,7)
+[Oca 29 15:44:14 2026] Round 9: AI (APEX): Alien Overlord moved to (3,7)
+[Oca 29 15:44:14 2026] GAME OVER: APEX PREDATOR WINS! Final Score: -1
+[Oca 29 15:44:28 2026] === NEW GAME STARTED (Era: PRESENT) ===
+[Oca 29 15:44:56 2026] Round 0: AI (PREY): Deer moved to (5,2)
+[Oca 29 15:44:56 2026] Round 0: Player used basic move.
+[Oca 29 15:44:56 2026] Round 0: PLAYER: Predator moved from (3,3) to (2,4)
+[Oca 29 15:44:56 2026] Round 0: AI (APEX): Polar Bear moved to (5,2)
+[Oca 29 15:44:56 2026] Round 0: EVENT: Apex CAUGHT Prey at (5,2)
+[Oca 29 15:44:57 2026] Round 1: AI (PREY): Deer moved to (9,0)
+[Oca 29 15:44:57 2026] Round 1: Player used basic move.
+[Oca 29 15:44:57 2026] Round 1: PLAYER: Predator moved from (2,4) to (1,5)
+[Oca 29 15:44:57 2026] Round 1: AI (APEX): Polar Bear moved to (6,1)
+[Oca 29 15:44:58 2026] Round 2: AI (PREY): Deer moved to (9,1)
+[Oca 29 15:44:58 2026] Round 2: Player used basic move.
+[Oca 29 15:44:58 2026] Round 2: PLAYER: Predator moved from (1,5) to (0,4)
+[Oca 29 15:44:58 2026] Round 2: AI (APEX): Polar Bear moved to (7,1)
+[Oca 29 15:44:59 2026] Round 3: AI (PREY): Deer moved to (9,3)
+[Oca 29 15:44:59 2026] Round 3: Player used basic move.
+[Oca 29 15:44:59 2026] Round 3: PLAYER: Predator moved from (0,4) to (0,3)
+[Oca 29 15:44:59 2026] Round 3: AI (APEX): Polar Bear moved to (8,2)
+[Oca 29 15:45:00 2026] Round 4: AI (PREY): Deer moved to (9,4)
+[Oca 29 15:45:00 2026] Round 4: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:00 2026] Round 4: AI (APEX): Polar Bear moved to (9,3)
+[Oca 29 15:45:00 2026] Round 5: AI (PREY): Deer moved to (8,5)
+[Oca 29 15:45:00 2026] Round 5: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:00 2026] Round 5: AI (APEX): Polar Bear moved to (8,4)
+[Oca 29 15:45:00 2026] Round 6: AI (PREY): Deer moved to (7,6)
+[Oca 29 15:45:00 2026] Round 6: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:00 2026] Round 6: AI (APEX): Polar Bear moved to (7,5)
+[Oca 29 15:45:00 2026] Round 7: AI (PREY): Deer moved to (5,4)
+[Oca 29 15:45:00 2026] Round 7: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:00 2026] Round 7: AI (APEX): Polar Bear moved to (6,4)
+[Oca 29 15:45:01 2026] Round 8: AI (PREY): Deer moved to (4,3)
+[Oca 29 15:45:01 2026] Round 8: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:01 2026] Round 8: AI (APEX): Polar Bear moved to (5,3)
+[Oca 29 15:45:01 2026] Round 9: AI (PREY): Deer moved to (3,2)
+[Oca 29 15:45:01 2026] Round 9: PLAYER: Predator moved from (0,3) to (0,3)
+[Oca 29 15:45:01 2026] Round 9: AI (APEX): Polar Bear moved to (4,2)
+[Oca 29 15:45:01 2026] GAME OVER: APEX PREDATOR WINS! Final Score: 0
+[Oca 29 15:45:09 2026] === NEW GAME STARTED (Era: PAST) ===
+[Oca 29 15:45:41 2026] Round 0: AI (PREY): Stegosaurus moved to (9,3)
+[Oca 29 15:45:41 2026] Round 0: WARNING: Special Move FAILED (Cooldown or Invalid)!
